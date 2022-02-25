@@ -1,0 +1,914 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of Tangier in a letter to His Grace the lord chancellor of Ireland and one of the lords justices there : to which is added the present state of Algiers.</title>
+            <author>Philips, George, 1599?-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54705</idno>
+            <idno type="STC">Wing P2027A</idno>
+            <idno type="STC">ESTC R26210</idno>
+            <idno type="EEBO-CITATION">09386801</idno>
+            <idno type="OCLC">ocm 09386801</idno>
+            <idno type="VID">42938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1314:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of Tangier in a letter to His Grace the lord chancellor of Ireland and one of the lords justices there : to which is added the present state of Algiers.</title>
+                  <author>Philips, George, 1599?-1696.</author>
+                  <author>Philips, George, 1599?-1696. Present state of Algiers.</author>
+               </titleStmt>
+               <extent>135 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed (p.70): G.P.</note>
+                  <note>"The present state of Algiers" (p. 73-135) has special t.p.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  Description and travel.</term>
+               <term>Tangier (Morocco) --  History.</term>
+               <term>Algeria --  History --  1516-1830.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:42938:1"/>
+            <p>Licenſed, Febr. 21. 1675/6.</p>
+            <p>
+               <hi>Henry Oldenburg.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:42938:1" rendition="simple:additions"/>
+            <p>THE <hi>PRESENT STATE</hi> OF Tangier: IN A LETTER To His GRACE, THE Lord Chancellor of <hi>Ireland,</hi> And one of the Lords Juſtices there.</p>
+            <p>To which is added, The PRESENT STATE of <hi>ALGIERS.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Henry Herringman,</hi> at the Sign of the Anchor in the Lower Walk of the <hi>New Exchange.</hi> MDCLXXVI.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:42938:2"/>
+                  <pb n="1" facs="tcp:42938:2"/>
+                  <head>THE PRESENT STATE OF <hi>TANGIER:</hi> In A LETTER To His GRACE, The Lord Chancellor of <hi>IRELAND, &amp;c.</hi>
+                  </head>
+                  <opener>
+                     <salute>May it pleaſe Your Grace,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">B</seg>Eing <hi>conſcious</hi> to my ſelf of my own ve<g ref="char:EOLhyphen"/>ry great incapacity to render ſuch an Account as may be delightful
+<pb n="2" facs="tcp:42938:3"/>and ſatisfactory; I am aſhamed ſo unprofitably to divert you from better imployments, and ſo palpably to diſcover my own weakneſs in the follow<g ref="char:EOLhyphen"/>ing Deſcription of the City of <hi>Tangier,</hi> and the Territory thereunto belonging: where<g ref="char:EOLhyphen"/>in howſoever I had rather be<g ref="char:EOLhyphen"/>wray my folly in this abrupt Narration, than adminiſter an occaſion to be ſuſpected in my readineſs to obey your Com<g ref="char:EOLhyphen"/>mands; and therefore I preſume to preſent to your Grace theſe haſty Notes, reſolving to deal truly and impartially, ac<g ref="char:EOLhyphen"/>cording to what I have ſeen and obſerved, and what hath been related to me by credible perſons.</p>
+                  <pb n="3" facs="tcp:42938:3"/>
+                  <p>On <hi>Saturday</hi> the 12 of <hi>June</hi> laſt, early in the morning, we entred the Paſſage into the <hi>Streights,</hi> between <hi>Cape Spar<g ref="char:EOLhyphen"/>tel</hi> and <hi>Cape Trafalgar,</hi> in one of His Majeſties Frigots: from the <hi>Cape</hi> to <hi>Tangier,</hi> (the wind blowing freſh from the Land) a moſt odoriferous ſmell, like to the Fume of Cedar or Ju<g ref="char:EOLhyphen"/>niper, entertain'd us; which I conceive to be a mixture of pleaſant ſents ariſing from the variety of ſweet Trees and Herbs growing there wild: the Coaſt rocky, rugged, and full of Hills, yet very ſafe for Ships, very green with Graſs and Herbs, and full of Trees. When we came into the Bay
+<pb n="4" facs="tcp:42938:4"/>of <hi>Tangier,</hi> there fell a moſt ve<g ref="char:EOLhyphen"/>hement ſtorm of rain, which continued an hour, and (as it is ſaid) was more than was ſeen at that time of the year in any mans memory. Being ſa<g ref="char:EOLhyphen"/>luted with a thouſand ſhots of great Guns from the Mole, the Caſtle, the Forts, and the Ships riding in the Bay, we landed, where we were met by the Mayor and Corporation in their Gowns, and conducted through a Guard of Souldiers from thence to the Caſtle.</p>
+                  <p>The City of <hi>Tangier</hi> is in the Latitude of 35 <hi>deg.</hi> 35 <hi>min.</hi> ſituated very pleaſantly about the middle way between the Entrance and the Mouth of
+<pb n="5" facs="tcp:42938:4"/>the <hi>Streights,</hi> in a large Bay like a Semi-Circle, in plain ſight of the Coaſt of <hi>Spain,</hi> being leſs than ſix Leagues di<g ref="char:EOLhyphen"/>ſtant from it: the weather na<g ref="char:EOLhyphen"/>turally very hot and ſcalding, but ſo temper'd with Friſcoes and Breezes both from Land and Sea, that the Air is rendred very tolerable; the Sky alway bright and ſerene, no Rain (nor hardly a Cloud) being ſeen there for three parts of the year: the <hi>Levant</hi>-wind, (which blows very often and very ſtrong, eſpecially during the months of <hi>July</hi> and <hi>Auguſt</hi>) as it makes the weather more cool, ſo, beſides its unkindneſs to Ships, it is not very agree<g ref="char:EOLhyphen"/>able
+<pb n="6" facs="tcp:42938:5"/>to Health; many people, eſpecially ſuch as are sickly, being then faint, and more diſ-compoſed. The City ſeems to have been one of the great<g ref="char:EOLhyphen"/>eſt in the World, which is ap<g ref="char:EOLhyphen"/>parent by the old Walls and Ruines, extending S. E. about two miles, as far as old <hi>Tan<g ref="char:EOLhyphen"/>gier,</hi> (where ſtands a heap of ruined Buildings, a pleaſant River, wonderfully ſtored with ſeveral ſorts of good Fiſh run<g ref="char:EOLhyphen"/>ning near it, and a large Stone-Bridge over it, but now bro<g ref="char:EOLhyphen"/>ken) and ſtretching N. W. near three miles, and beyond <hi>Teveot</hi>-Hill, (ſo called from that Renowned Perſon the Earl of <hi>Teveot,</hi> who there was
+<pb n="7" facs="tcp:42938:5"/>cut off the by <hi>Moors</hi>) and a pret<g ref="char:EOLhyphen"/>ty Brook, called <hi>Jews-River,</hi> running about the middle way. I dare not take upon me the part of an Hiſtorian, or go about to give an exact Ac<g ref="char:EOLhyphen"/>count of the Annals of this Place; but only in a few words to deduce the Summary Hiſtory of its ſeveral Owners, till it came into the Hands of His Sacred Majeſty, (whom God long preſerve over us, and that City under Him.)</p>
+                  <p>
+                     <hi>Tangier,</hi> or <hi>Tingis,</hi> was firſt built (as ſome ſay) by thoſe fugitive <hi>Canaanites,</hi> who in the Fields adjoining erected Pil<g ref="char:EOLhyphen"/>lars, with this Inſcription in the <hi>Phoenician</hi> Language, import<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:42938:6"/>in <hi>Engliſh, We flee from the face of the Son of</hi> Nave, <hi>the great Robber:</hi> Or, as others, by <hi>Tinga,</hi> Wife of <hi>Antaeus,</hi> ſlain by <hi>Hercules.</hi> I ſhall not mention what <hi>Leo Africanus</hi> ſaith of it, becauſe himſelf al<g ref="char:EOLhyphen"/>lows it fabulous. It was a City of great note and eſteem, when the <hi>Carthaginians</hi> con<g ref="char:EOLhyphen"/>tended with the <hi>Romans,</hi> and gave Name to all the adjacent Country, but is ſaid to have been buried by <hi>Caeſar</hi> in the Ruines of <hi>Juba</hi> its King; but by <hi>Claudius</hi> (who firſt made <hi>Mauritania Tingitana</hi> a Roman Province) to have been reſto<g ref="char:EOLhyphen"/>red, and made a Colony, called <hi>Traducta Julia:</hi> From thence
+<pb n="9" facs="tcp:42938:6"/>it continued the Metropolis of <hi>Mauritania,</hi> until <hi>Conſtantine</hi> the Great laid it to the Dioceſs of <hi>Spain;</hi> in which condition it continued during ſome time of the Empire, until about the year 642. <hi>Suintilla</hi> King of the <hi>Goths</hi> in <hi>Spain,</hi> added it to his Dominions. So that they ſeem to err, who report, this City, and its dependant Coun<g ref="char:EOLhyphen"/>try, to have been poſſeſſed by the <hi>Vandals,</hi> invited into <hi>Afri<g ref="char:EOLhyphen"/>ca</hi> by <hi>Boniface,</hi> in the Empire of <hi>Valentinian</hi> the third. It continued ſubject to the <hi>Goths,</hi> longer than <hi>Spain</hi> did: for though <hi>Oſman,</hi> the third <hi>Caliph</hi> Succeſſor of <hi>Mahomet,</hi> con<g ref="char:EOLhyphen"/>quered the reſt of <hi>Barbavy;</hi>
+                     <pb n="10" facs="tcp:42938:7"/>yet <hi>Tingitana</hi> was ſtill held by the <hi>Goths,</hi> and afforded retreat and ſhelter to the Sons of <hi>Viti<g ref="char:EOLhyphen"/>za,</hi> the true Heirs, during the Uſurpation of <hi>Roderic</hi> the laſt King, and alſo ſome years after his ſlaughter, and the ſubver<g ref="char:EOLhyphen"/>ſion of the <hi>Gothiſh</hi> Kingdom in <hi>Spain,</hi> by <hi>Muſa</hi> and <hi>Tariffe,</hi> Lieutenants to <hi>
+                        <g ref="char:V">Ʋ</g>lidor <g ref="char:V">Ʋ</g>lit,</hi> the <hi>Saracenical Caliph.</hi> The <hi>Moors,</hi> when they held this Town, had here a Publick School or Univerſity, where their Youth were taught Let<g ref="char:EOLhyphen"/>ters; as alſo an Hoſpital libe<g ref="char:EOLhyphen"/>rally endowed by <hi>Joſeph a Ben Teifin,</hi> the ſecond of the <hi>Al<g ref="char:EOLhyphen"/>mora Vides,</hi> who founded <hi>Mo<g ref="char:EOLhyphen"/>rocco,</hi> conquered <hi>Fez,</hi> and ſub<g ref="char:EOLhyphen"/>dued
+<pb n="11" facs="tcp:42938:7"/>all the <hi>Mooriſh Roytelets</hi> in <hi>Spain,</hi> adding this to his large Dominion. Under his Succeſſors of the three Races, (the <hi>Almoravides,</hi> the <hi>Almo<g ref="char:EOLhyphen"/>hades,</hi> and laſtly the <hi>Merines</hi>) <hi>Tangier</hi> was their chief Port for <hi>Spain;</hi> for in this Bay, and that of <hi>Alcazzer,</hi> not far from the Point, did <hi>Alboacen</hi> embarque his Army for <hi>Spain,</hi> confiſting of 400000 Foot, and 70000 Horſe, who were diſcomfited by the Chriſtians at <hi>Salado</hi> near <hi>Tariffa:</hi> by which blow, the power of the <hi>Miramemolins</hi> was ſo broken, that their Em<g ref="char:EOLhyphen"/>pire declined very faſt both in <hi>Spain</hi> and <hi>Africa,</hi> their civil diſſentions alſo haſtning their
+<pb n="12" facs="tcp:42938:8"/>downfal; in which decay of the <hi>Merin</hi> Family, <hi>Tangier</hi> was deſerted by the <hi>Moors,</hi> as moſt of this Coaſt was, on the ap<g ref="char:EOLhyphen"/>proach of <hi>Alphonſo</hi> the fifth, King of <hi>Portugal,</hi> who took poſſeſſion of it <hi>An. Dom.</hi> 1472. whoſe Succeſſors held it with continual Wars, and various Succeſſes with the <hi>Xeriſſes,</hi> un<g ref="char:EOLhyphen"/>til the year 1669. when it was delivered to that excellent and much-lamented General, the <hi>Earl of Sandwich,</hi> for the uſe of <hi>CHARLES the Second,</hi> King of <hi>Great Britain.</hi> But whoſo<g ref="char:EOLhyphen"/>ever deſires a more particular and ſatisfactory account of theſe things, may conſult <hi>He<g ref="char:EOLhyphen"/>rodotus</hi> in <hi>Vita Cambyſis, Proco<g ref="char:EOLhyphen"/>pius,
+<pb n="13" facs="tcp:42938:8"/>Enagrius, Joſephus,</hi> and <hi>Bochartus</hi> his <hi>Phaleg, Plutarch</hi>'s <hi>Sertorius, &amp;c.</hi> the Hiſtories of <hi>Spain,</hi> written by <hi>Mariana</hi> or <hi>Turquet;</hi> of <hi>Portugal,</hi> by <hi>Oſorius,</hi> &amp;c. of <hi>Africa,</hi> by <hi>Leo,</hi> and others.</p>
+                  <p>It is certainly a very ſweet and well-choſen place, at the foot of a very great Hill, on which the Caſtle ſtandeth, on a Declivity, but yet inſenſible, of an irregular ſquare, and fen<g ref="char:EOLhyphen"/>ced with a high, thin, old<g ref="char:EOLhyphen"/>faſhioned Wall, (much like to that of <hi>Droghedah</hi> in <hi>Ireland</hi>) having only two Gates, one to<g ref="char:EOLhyphen"/>ward the Country, called <hi>Port-Catharina,</hi> a wonderful ſtrong, and well-contrived Entrance; the other to the Sea, called the
+<pb n="14" facs="tcp:42938:9"/>
+                     <hi>Water-Gate.</hi> The Streets are extreamly narrow, (which is abſolutely neceſſary in all pla<g ref="char:EOLhyphen"/>ces where the Sun is ſo much Vertical) which makes the Town ſeem much ſmaller, and leſs conſiderable than it is: but were they extended at the rate of the new Streets in and about <hi>London,</hi> it would take up a great deal of Ground, and appear a very large Town. The Houſes are low, and ge<g ref="char:EOLhyphen"/>nerally little, with <hi>Spaniſh</hi> Roofs, almoſt flat, (which is the cauſe that it makes the leſs ſhew) the Walls generally of Stone and Mudd, the cover<g ref="char:EOLhyphen"/>ing crooked Tiles, the In ſide and Cielings of Slit Deal, or
+<pb n="15" facs="tcp:42938:9"/>Pine: There are many of the Officers and principal Townſ<g ref="char:EOLhyphen"/>men, who have fine, large, com<g ref="char:EOLhyphen"/>modious, and well-furniſhed Houſes and Gardens; and in<g ref="char:EOLhyphen"/>deed the Houſes are for the moſt part very pretty and con<g ref="char:EOLhyphen"/>venient, hardly any without a little Garden, but extreamly beautiful and delighting, full of ſweet Herbs, and pleaſant Trees, eſpecially Vines, which running up upon Pillars made of Stone, and <hi>Eſpaliers</hi> made of great Reeds, (which for that purpoſe they commonly Nurſe in a corner of the Gar<g ref="char:EOLhyphen"/>den, and annually cut down for that uſe) all their Walks, and Back-ſides, and Spare<g ref="char:EOLhyphen"/>places,
+<pb n="16" facs="tcp:42938:10"/>are covered and ſhaded with Vines, mightily loaden with excellent Grapes, of di<g ref="char:EOLhyphen"/>vers ſorts, ſizes, and ſhapes, and ſome very early ripe. The Air, taking one time with ano<g ref="char:EOLhyphen"/>ther, exceeding temperate, not ſo ſultry as many times of the day in <hi>Ireland,</hi> nor ſo ſharp as many of the nights there. It is obſerved, that the Inhabi<g ref="char:EOLhyphen"/>tants here (as of the adjacent Country) are much ſubject to ſore eyes, which I am apt to impute not to any innate qua<g ref="char:EOLhyphen"/>lity of the Air, but to the dry<g ref="char:EOLhyphen"/>neſs and continual brightneſs of it. New-comers are wel<g ref="char:EOLhyphen"/>comed conſtantly with ſtrange Bliſters and Pimples, like to
+<pb n="17" facs="tcp:42938:10"/>the Small-Pox, which is ge<g ref="char:EOLhyphen"/>nerally attributed to the biting of <hi>Muskitoes,</hi> (which are juſt the Gnats in ſome parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but a little more pert) and <hi>Chinches,</hi> (which much re<g ref="char:EOLhyphen"/>ſemble <hi>Ticks,</hi> but that they leave ſo intolerable a ſtink when they are killed) but I rather think it to proceed from an Ebullition of the Blood, upon change of the Air, it hap<g ref="char:EOLhyphen"/>pening moſt ſeverely to ſuch as drink much water at their firſt coming. There can be no place in the World better accommodated with Water, and the beſt that can be taſted; no Garden in the Town (at leaſt on the North-Weſt-ſide)
+<pb n="18" facs="tcp:42938:11"/>but hath a Well, and ſome many; and in the Market-Place is a handſom large Con<g ref="char:EOLhyphen"/>duit, with a very fair Ciſtern, and a Cock continually run<g ref="char:EOLhyphen"/>ning on each ſide: the Water is brought to the Town in moſt admirable and coſtly Aque<g ref="char:EOLhyphen"/>ducts, made formerly by the Romans, and ſaid to come from the Foot of <hi>Mount-Atlas;</hi> but where the Paſſages are, no man can diſcover, till you come within two hundred paces of the Lines, and there they may be ſeen, curiouſly made of Brick and Stone; and at eve<g ref="char:EOLhyphen"/>ry twenty yards, or there<g ref="char:EOLhyphen"/>about, a little Well, into which the Gravel, Mudd, or any
+<pb n="19" facs="tcp:42938:11"/>other Filth doth fall, and when they are filled, it is eaſie to empty and cleanſe them. I have often wondred that the <hi>Moors</hi> (ſuch inveterate Ene<g ref="char:EOLhyphen"/>mies and Haters of all <hi>Christi<g ref="char:EOLhyphen"/>ans,</hi> eſpecially the <hi>Tangerines</hi>) ſhould forbear cutting and ſpoiling the Aqueducts, or poyſoning the Water; till I underſtood, that it is a point of their Law and Religion, not to deſtroy any thing that is made for the natural and ne<g ref="char:EOLhyphen"/>ceſſary uſe of Mankind, (which is the cauſe that they ſo curſe and exclaim on the <hi>Chriſtian-Dogs,</hi> when a Party hath been ſometime ſent out of this Ga<g ref="char:EOLhyphen"/>riſon to burn their Corn.) The
+<pb n="20" facs="tcp:42938:12"/>Land about the Town is very rich and pleaſant, abundantly luxuriant in the production of fine Flowers, (as <hi>Narciſſus, Crocus, Iris, &amp;c.</hi>) and ſweet ſmelling Plants, which with ſo much care and coſt are nou<g ref="char:EOLhyphen"/>riſhed and reared in the Gar<g ref="char:EOLhyphen"/>dens of <hi>Europe;</hi> ſo that the Hay made there by the Gari<g ref="char:EOLhyphen"/>ſon, is only a wither'd Noſe<g ref="char:EOLhyphen"/>gay of Roſemary, Thyme, Marjoram, Pennyroyal, and other ſweet-ſmelling Herbs. In the Gardens are very good Peaſe, Beans, Artichokes, (Aſ<g ref="char:EOLhyphen"/>paragus growing wild in the Fields) Strawberries, Lettice, Purſlane, Cucumbers, <hi>&amp;c.</hi> but Melons, ſo plentiful, ſo various
+<pb n="21" facs="tcp:42938:12"/>in the ſhape and kind, and ſo delicious, that it cannot be de<g ref="char:EOLhyphen"/>ſcribed to underſtanding and belief. The common Fruits of this Place are Apricocks and Peaches, (which I cannot ſay are ſo good as in <hi>England,</hi> and I conceive the cauſe to be, that they are Wildings, and not mended by Inoculation) Figgs, which bear twice a year, and Mulberries, (much better) O<g ref="char:EOLhyphen"/>ranges, Lemons, Limes, Ci<g ref="char:EOLhyphen"/>trons, Pomegranats, Plumbs, ſome Cherries, but not worth eating, ſome Pears and Apples, but very ſcurvy, (which pro<g ref="char:EOLhyphen"/>bably ariſeth from the cauſe before hinted, that no pains are taken in Grafting;) but the
+<pb n="22" facs="tcp:42938:13"/>Grapes are certainly not to be parallel'd in any place of the World. They ordinarily uſe Calabaſhas, a kind of a long Pompion, and Simnels, in ſtead of Cabbage and Turnips, but they are no way comparable to either of them. The Fields about the Town were hereto<g ref="char:EOLhyphen"/>fore much more delightful, when they ſtood full of O<g ref="char:EOLhyphen"/>range-Trees, Lemons, Olives, Pomegranats, Figgs and Mul<g ref="char:EOLhyphen"/>berries; but ſome time ſince, there being no timely proviſi<g ref="char:EOLhyphen"/>on made for Firing, the Soul<g ref="char:EOLhyphen"/>diers were neceſſitated to cut them down, and burn them, for want of other Fewel. There is a very great and curious
+<pb n="23" facs="tcp:42938:13"/>Wood near the Town, green all the year, which I daily ſaw out of my Chamber-window; and though I did not hold it convenient to take a nearer ſurvey of it, I was told, by ſuch as in time of Peace have been in it, that it is a <hi>raviſh<g ref="char:EOLhyphen"/>ing</hi> Wilderneſs of Oranges, Lemons, Figgs, <hi>&amp;c.</hi> Scarlet-Oak, and Cork-Trees; and in ſtead of Bryars and Thorns, <hi>thickned</hi> with Damask Roſes, Groves of Myrtle, Jaſemine, and Buſhes of Roſemary.</p>
+                  <p>The Hay-Harveſt uſeth to be about the middle of <hi>May,</hi> and is compleatly made in two days. Barley and Wheat are cut down in <hi>June;</hi> the Grain
+<pb n="24" facs="tcp:42938:14"/>trodden out by Oxen, laid up in Caves, and the Straw kept for Food for Horſes and Cat<g ref="char:EOLhyphen"/>tle: And in the Month of <hi>Auguſt,</hi> the Stubble through the whole Country is ſet on fire, partly to deſtroy the Ver<g ref="char:EOLhyphen"/>mine, which otherwiſe would become inſupportable, and partly to inrich the Ground, there being no other manure uſed. The Seaſons ſeem to be oppoſite to thoſe in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and quite in<g ref="char:EOLhyphen"/>verted: for whereas there from <hi>May</hi> to <hi>All-Hallontide,</hi> the Ground is green, and pleaſant, and covered with Graſs, and from thence to <hi>April</hi> dry, white and withered; on the contrary,
+<pb n="25" facs="tcp:42938:14"/>all the Verdure and Sweetneſs in <hi>Barbary,</hi> rank Graſs, and variety of Flowers and Herbs, is from <hi>November</hi> to <hi>April;</hi> but from thence to <hi>November,</hi> the Ground dry, white, wither'd, and burnt with the Sun; this I mean of the Country, but the Gardens are perpetually green, and produce two Crops in a year of almoſt all Garden ſtuff and Sallads: nay, the Cows, Aſſes, and Horſes, (directly contrary to the uſage of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>) do live all the Summer upon Hay, and chopt Barley<g ref="char:EOLhyphen"/>ſtraw, (which is brought in <hi>Barca-luengos</hi> from <hi>Spain</hi>) and upon Graſs in the Winter. If a Peace were made with the
+<pb n="26" facs="tcp:42938:15"/>
+                     <hi>Moors,</hi> all manner of Freſh Proviſions would be as good as in <hi>England,</hi> and as plentiful and cheap as in <hi>Ireland:</hi> the Beef and Mutton is not ſo ge<g ref="char:EOLhyphen"/>nerally fat, but as ſweet and juicy as in any other place: Hens, Chickens, Capons, Geeſe and Turkies, are extreamly plentiful, and very good; the Pigeons very large, and very fat; but the Ducks are certainly the beſt in the World: for being kept from Puddles and dirty feeding, and fatned with Oatmeal and Peaſe, the Fleſh of them is quite changed in colour and taſte. I have eaten here Plover, Curlew, and Bu<g ref="char:EOLhyphen"/>ſtard, and very good; the Par<g ref="char:EOLhyphen"/>tridge,
+<pb n="27" facs="tcp:42938:15"/>though much larger, doth not pleaſe me ſo well as thoſe of <hi>England</hi> and <hi>Ireland:</hi> but here are a ſort of Birds about the bigneſs of a Phea<g ref="char:EOLhyphen"/>ſant, the <hi>Spaniards</hi> call them, <hi>Peſones de Campo,</hi> which I muſt commend above all the Fowl that ever I taſted. In the mean time, no place under Heaven, perhaps, is better furniſhed with excellent kinds of Fiſh, and great plenty; here are (beſide Soles, Gurnets, Mul<g ref="char:EOLhyphen"/>lets, Turbets, Lobſters, Eels, Shrimps, <hi>&amp;c.</hi> in common with <hi>England</hi>) Cod-fiſh, Bonito's, Old-women, Porgo's, Salmo<g ref="char:EOLhyphen"/>netto's, Rock-fiſh, Star-fiſh, and many other, for which they
+<pb n="28" facs="tcp:42938:16"/>have no name. The Caſtle of <hi>Tangier</hi> is ſituated moſt ſecure<g ref="char:EOLhyphen"/>ly and moſt delightfully upon a very high Hill, overlooking the Town, Country, and Har<g ref="char:EOLhyphen"/>bour; Fortified, beſide its Foundation, on inacceſſible Rocks, by four the moſt regu<g ref="char:EOLhyphen"/>lar, high, and well-built Ba<g ref="char:EOLhyphen"/>ſtions that can any where be ſeen; ſeveral excellent, and inexhauſtible Wells within it; and is, in a word, to all appea<g ref="char:EOLhyphen"/>rance, a place impregnable; all the Store-houſes of Ammu<g ref="char:EOLhyphen"/>nition and Proviſion, many Houſes, Streets and Gardens contained within it, and very near the third part of as much Ground as is in the whole City,
+<pb n="29" facs="tcp:42938:16"/>being divided from it by a Wall that reacheth to the Sea. The Upper-Caſtle, or the Go<g ref="char:EOLhyphen"/>vernours Houſe, is very noble, large and commodious, and owes its beauty and conveni<g ref="char:EOLhyphen"/>ences to the care and genero<g ref="char:EOLhyphen"/>ſity of that excellent Perſon, the Earl of <hi>Middleton,</hi> late Go<g ref="char:EOLhyphen"/>vernour, and doth afford a moſt incomparable Proſpect, all Ships that paſs to or from the <hi>Mediterranean</hi> ſailing un<g ref="char:EOLhyphen"/>der the ſight of the Windows: out of <hi>Foraging-Port,</hi> the Gate that looks to the Sea, an even, plain, and very pleaſant Walk leads to <hi>Charles Fort,</hi> a ſtrong and well fortified Place, and Commanded by Captain
+<pb n="30" facs="tcp:42938:17"/>
+                     <hi>Charles Daniel,</hi> whoſe Inge<g ref="char:EOLhyphen"/>nuity I muſt not forget, that hath ſo curiouſly beautified the Fort, without impairing the Strength, having on one ſide made a moſt delightful Walk between the Wall and the Graft, about twelve foot wide, and near two hundred yards long, curiouſly Gravelled, and covered cloſe with Vines, which run up upon Pillars, and afford a cool ſhade on the hot<g ref="char:EOLhyphen"/>teſt day. On another ſide he hath his Melon-Gardens, and not far from thence his Garden for Flowers and Herbs; ſo that <hi>Charles Fort,</hi> which is the great terrour to the <hi>Moors,</hi> and which they dare not come near, is
+<pb n="31" facs="tcp:42938:17"/>the greateſt delight of the In<g ref="char:EOLhyphen"/>habitants of <hi>Tangier,</hi> and con<g ref="char:EOLhyphen"/>tinually viſited like <hi>Spring-Garden.</hi> There is another Houſe of Pleaſure within the Lines, which they call by the name of <hi>White-Hall,</hi> a place where the Ladies, the Officers, and the better ſort of people, do refreſh and divert them<g ref="char:EOLhyphen"/>ſelves with Wine, Fruits, and a very pretty Bowling-Bare. The <hi>Mole</hi> is in its deſign the greateſt and moſt noble Un<g ref="char:EOLhyphen"/>dertaking in the World, (all other Moles, as at <hi>Genoa, Ma<g ref="char:EOLhyphen"/>laga, Algier, &amp;c.</hi> not deſer<g ref="char:EOLhyphen"/>ving more than the name of a Key, in compariſon of it) it is a very pleaſant thing to look
+<pb n="32" facs="tcp:42938:18"/>on; and if it may be finiſhed according to His Majeſties purpoſe, who hath ſpared no coſt upon it, it will not only ſecure the Bay and Ships in it, but in time render <hi>Tangier</hi> ve<g ref="char:EOLhyphen"/>ry conſiderable and advanta<g ref="char:EOLhyphen"/>geous to His Majeſty and His Kingdoms: It is now near four hundred and ſeventy yards long, and thirty yards broad, ſeveral pretty Houſes upon it, and many Families; on the in<g ref="char:EOLhyphen"/>ner ſide twenty four Arched Cellars, and before them a cu<g ref="char:EOLhyphen"/>rious Walk, with Pillars for the Mooring of Ships. Upon the Mole are a vaſt number of great Guns, which are al<g ref="char:EOLhyphen"/>moſt continually kept warm,
+<pb n="33" facs="tcp:42938:18"/>during fair weather, in giving and paying Salutes to Ships which come in and out: for the moſt part of the year there are imploy'd in this work three hundred Men, and ſeveral Carts with good Teames of Horſes continually going with Stone and other Materials be<g ref="char:EOLhyphen"/>tween the Mole and <hi>Whitby;</hi> which is a little Engliſh Ham<g ref="char:EOLhyphen"/>let, planted by that induſtrious and ingenious Gentleman Sir <hi>Hugh Cholmely,</hi> where are about twenty Families, beſide at leaſt an hundred Labourers and Souldiers lodge there eve<g ref="char:EOLhyphen"/>ry night, and are ſufficiently defended by Guns and Forts from any Attaque of the <hi>Moors.</hi>
+                     <pb n="34" facs="tcp:42938:19"/>It is very pleaſant to ſee how buſie every man is there in his ſeveral Trade; the Smiths, Carpenters, Sawyers, Coopers, Wheelwrights, Carters, Ma<g ref="char:EOLhyphen"/>ſons, Miners, Drill-men, Quar<g ref="char:EOLhyphen"/>ry-men, and Stone-cutters, making a pretty confuſed Mu<g ref="char:EOLhyphen"/>ſick, and very pleaſant to ſuch as do not pay for it. There were in <hi>Tangier,</hi> when the <hi>Portugueſes</hi> left it, ſeventeen Churches and Chappels; but now there are only two; one whereof, with a large ſcope of Ground, a Convent, and Lodg<g ref="char:EOLhyphen"/>ings for the Church-men, and very commodious Out-houſes and Gardens, is left to the <hi>Portugueſe</hi> Inhabitants, and is
+<pb n="35" facs="tcp:42938:19"/>indeed a fine Church, delicate<g ref="char:EOLhyphen"/>ly beautified all round it with neat and coſtly Altars: the other, a pretty plain Chappel, formerly dedicated to St. <hi>Jago,</hi> and now to <hi>Charles</hi> the Martyr, is the Proteſtant Church, and very well filled on <hi>Sundays.</hi> There is alſo an Hoſpital for ſick and wounded Souldiers, very well provided for; and an Exhibition of 200 <hi>l. per ann.</hi> for maintaining and breeding the Orphan-Children of Soul<g ref="char:EOLhyphen"/>diers or Townſ-men.</p>
+                  <p>
+                     <hi>Tangier,</hi> and the Territory belonging to it, is at the pre<g ref="char:EOLhyphen"/>ſent governed by the Earl of <hi>Inſiquin,</hi> a Perſon of very great Abilities, and immoveable
+<pb n="36" facs="tcp:42938:20"/>Loyalty. In whoſe time though it unluckily fell out, that a party of men were cut off by the <hi>Moors,</hi> yet it ought to be no Impeachment of his Prudence and Conduct. For the Gariſon being extreamly ſcarce of Proviſions, the Stores exhauſted, and nothing to be had from <hi>Portugal</hi> or <hi>Spain,</hi> (whither he ſent Veſſels with ready money to buy Meat, but could get none) and the Cor<g ref="char:EOLhyphen"/>poration by a Remonſtrance laying before him how ill the Stores were furniſhed both in quantity and quality, he called a Council of War, by whom he was with one conſent advi<g ref="char:EOLhyphen"/>ſed and intreated to ſend a
+<pb n="37" facs="tcp:42938:20"/>Party out to fetch in a Prey of Cattle; and accordingly on the 19th of <hi>September</hi> he ſent out a Party of 500 men, under the Command of Sir <hi>Palmes Fairborn,</hi> (being the rather in<g ref="char:EOLhyphen"/>duced to it by the encourage<g ref="char:EOLhyphen"/>ment of <hi>James Hamet,</hi> a Rene<g ref="char:EOLhyphen"/>gado-<hi>Moor,</hi> recommended to the Governour as a fit perſon to be a Spy) the Forlorn con<g ref="char:EOLhyphen"/>ſiſting of 100 Souldiers, and about 35 Voluntiers, marched two miles beyond the Body, and were ſuddenly encompaſ<g ref="char:EOLhyphen"/>ſed by a great Party of Horſe, who lay in Ambuſh, and all ſlain, except Captain <hi>Alexander Mac Kenny,</hi> who commanded 15 Horſe-men; and being diſ<g ref="char:EOLhyphen"/>mounted,
+<pb n="38" facs="tcp:42938:21"/>lay among the dead bodies, till he found an oppor<g ref="char:EOLhyphen"/>tunity to ſteal into the adjoin<g ref="char:EOLhyphen"/>ing Wood, where he lay that night, and attempting to re<g ref="char:EOLhyphen"/>turn to the Gariſon next day, he was met by the <hi>Moors,</hi> and carried priſoner to <hi>Tetuan:</hi> He gave an account by Letter, that ſitting in a Tree, he ſaw the <hi>Moors</hi> gather 80 bodies from among the dead, of ſuch as were moſt conſiderable among them, and having laid them in a Funeral-Pile, and performed their accuſtomed ceremony in howling and lamenting, burnt them, leaving a great number of the ordinary ſort mingled among the dead bodies of our
+<pb n="39" facs="tcp:42938:21"/>men: In the mean time the main Body, being divided into two parties, one commanded by Sir <hi>Palmes Fairborn,</hi> the other by Captain <hi>James Leſlie,</hi> made a ſafe and honourable Retreat, though furiouſly attacqued on all ſides by a great number of Horſe and Foot, performing their parts even to admiration. This action was a very great terrour to the <hi>Moors,</hi> who ne<g ref="char:EOLhyphen"/>ver loſt ſo many men, ſince the Engliſh poſſeſſed the Place; and thereby were feelingly convinced, that the <hi>Chriſtians</hi> would fight for their Lives, which before they would not ſeem to allow, all the former Loſſes having happened upon
+<pb n="40" facs="tcp:42938:22"/>treacherous ſurpriſes, and at ſuch times when our men were not provided for a fight. The Garriſon conſiſteth of 1440 Foot, and 30 Horſe, and is certainly a Body of as brave, bold, well-trained men, as are to be ſeen any where in the World; they are paid 6 <hi>d. per diem</hi> in meat, and 3 <hi>d.</hi> in mo<g ref="char:EOLhyphen"/>ney. The Town is for the moſt part peopled with His Majeſties Subjects, who live neatly and pleaſantly, and are generally of a kind and hoſpi<g ref="char:EOLhyphen"/>table diſpoſition: The Cor<g ref="char:EOLhyphen"/>poration conſiſteth of a May<g ref="char:EOLhyphen"/>or, ſix Aldermen, and twelve Common Council-Men, all annually elected, and then ap<g ref="char:EOLhyphen"/>proved
+<pb n="41" facs="tcp:42938:22"/>and ſworn by the Go<g ref="char:EOLhyphen"/>vernour. Every <hi>Sunday</hi> the Mayor and Aldermen in their Scarlet Gowns, and the Com<g ref="char:EOLhyphen"/>mon-Council-Men in Purple, do pay a civility to the Gover<g ref="char:EOLhyphen"/>nour, coming up to the Caſtle, and from thence attending him to the Church. There are in the City about 200 Families, beſide Officers (who have, and keep very good Houſes) and Souldiers, who have very con<g ref="char:EOLhyphen"/>venient Quarters aſſigned them, Strangers, the Inhabi<g ref="char:EOLhyphen"/>tants within the Caſtle, the Dwellers on the Mole, and at <hi>Whitby.</hi> Among the Inhabi<g ref="char:EOLhyphen"/>tants there are ſome few of ſe<g ref="char:EOLhyphen"/>veral Nations, as <hi>French, Spa<g ref="char:EOLhyphen"/>niſh,
+<pb n="42" facs="tcp:42938:23"/>Portugueſes, Italians,</hi> and divers <hi>Jews</hi> both of <hi>Barbary</hi> and <hi>Europe,</hi> who are great Dealers in Trade, and have their ſeveral Synagogues with<g ref="char:EOLhyphen"/>in the Town: I ſay, ſeveral, for although they agree in the common Reading and Vene<g ref="char:EOLhyphen"/>ration of the five Books of <hi>Moſes,</hi> their Denial of our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt, and their Hatred to Chriſtians; yet they are not free from their little Schiſms, as appears by a paſ<g ref="char:EOLhyphen"/>ſage ſince my coming hither, which may perhaps be worth the relating.</p>
+                  <p>On the 9th of <hi>July</hi> laſt, a Petition was preſented to the
+<pb n="43" facs="tcp:42938:23"/>Governour by <hi>Joſeph Artnitel, Samuel Mexias, Joſeph Benja<g ref="char:EOLhyphen"/>min,</hi> and <hi>Moſes Benazara,</hi> in the name of the <hi>Barbary-Jews</hi> reſiding in <hi>Tangier,</hi> ſetting forth that <hi>Abraham Cohen,</hi> an <hi>Am<g ref="char:EOLhyphen"/>sterdam-Jew,</hi> did continually affront, moleſt, and diſquiet them, that they could not at<g ref="char:EOLhyphen"/>tend their Callings: whereup<g ref="char:EOLhyphen"/>on <hi>Abraham Cohen,</hi> and the <hi>European-Jews,</hi> being ſum<g ref="char:EOLhyphen"/>moned, and the matter heard, it appeared that they were on both ſides in Faction and Fire, for that the ſaid <hi>Abraham Co<g ref="char:EOLhyphen"/>hen</hi> and his Fellows did drink Wine, and traded in Swines-Fleſh; for which cauſe the <hi>Tangier-Jews</hi> had made their
+<pb n="44" facs="tcp:42938:24"/>complaint to the <hi>Sabios</hi> of <hi>Te<g ref="char:EOLhyphen"/>tuan,</hi> who had actually Ex<g ref="char:EOLhyphen"/>communicated the ſaid <hi>Cohen,</hi> and the reſt: but the Gover<g ref="char:EOLhyphen"/>nour perceiving knavery in the buſineſs, and that the inhibi<g ref="char:EOLhyphen"/>ting the <hi>European-Jews</hi> to bring Pork into the Town, might be out of deſign to hin<g ref="char:EOLhyphen"/>der the bringing in of Proviſi<g ref="char:EOLhyphen"/>ons; and that their Appeal to the <hi>Mooriſh-Jews</hi> at <hi>Tetuan,</hi> and the publiſhing of an Ex<g ref="char:EOLhyphen"/>communication, was a very great preſumption, and an af<g ref="char:EOLhyphen"/>front to His Majeſties Govern<g ref="char:EOLhyphen"/>ment; commanded the <hi>Bar<g ref="char:EOLhyphen"/>bary-Jews</hi> within a few days to diſſolve the Excommunica<g ref="char:EOLhyphen"/>tion, and to renounce the Au<g ref="char:EOLhyphen"/>thority
+<pb n="45" facs="tcp:42938:24"/>of <hi>Tetuan,</hi> or any other Power, but of the King of <hi>England;</hi> or elſe he would turn them and their Families out of Town: which took good effect, cauſed a Peace among them, and no more was heard of it. The following Addreſs was made to the Mayor of <hi>Tangier</hi> by <hi>Abraham Cohen, &amp;c.</hi>
+                  </p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>
+                           <hi>Foraſmuch as certain</hi> Tetuan-Jews, <hi>who at preſent are reſiding in this City of</hi> Tangier, <hi>have given out, that they have a Decree from the</hi> Sabios <hi>of</hi> Te<g ref="char:EOLhyphen"/>tuan, <hi>by which they do Excom<g ref="char:EOLhyphen"/>municate all and whatſoever</hi> Jew <hi>and</hi> Jews, <hi>who ſhall joyn
+<pb n="46" facs="tcp:42938:25"/>in Communion with</hi> Abraham Cohen <hi>to ſay their Prayers: We the <g ref="char:V">Ʋ</g>nder-written, do ſuppli<g ref="char:EOLhyphen"/>cate, that they may give us a Copy of the ſaid Decree, to the end we may not fall into a</hi> Prae<g ref="char:EOLhyphen"/>munire, <hi>and to amend our ſelves in caſe we have failed, and to undergo that chaſtiſement which ſhall be due to us in conformity to the Law of</hi> Moſes.</p>
+                        <closer>
+                           <dateline>
+                              <hi>Tangier,</hi> 
+                              <date>this 21 <hi>of Tamos, Anno</hi> 5435.</date>
+                           </dateline>
+                           <signed>
+                              <list>
+                                 <item>Abraham Cohen,</item>
+                                 <item>Jaacob Cohen,</item>
+                                 <item>Jacob del Canio,</item>
+                                 <item>Iſaac de Mexias.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <p>Upon an Order from the Mayor, the Decree was pro<g ref="char:EOLhyphen"/>duced; which, for the ſatisfa<g ref="char:EOLhyphen"/>ction
+<pb n="47" facs="tcp:42938:25"/>of your Grace, who may be pleaſed with ſuch a curio<g ref="char:EOLhyphen"/>ſity, I have ſet down, as it was Tranſlated out of the <hi>Hebrew</hi> Language into <hi>Engliſh.</hi>
+                  </p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>
+                           <hi>To the Holy Congregation of the City of</hi> Tangier, <hi>whom our Lord pre<g ref="char:EOLhyphen"/>ſerve,</hi> Amen.</head>
+                        <head type="sub">After having deſired your joint Peace, Peace be unto you, your Fellow-helpers, and all thoſe that are joined with you, <hi>Amen.</hi>
+                        </head>
+                        <p>
+                           <hi>WE ſend this unto you, by reaſon of one we re<g ref="char:EOLhyphen"/>ceived from you, complaining
+<pb n="48" facs="tcp:42938:26"/>in what manner</hi> Abraham Co<g ref="char:EOLhyphen"/>hen <hi>treats you, of his Abuſes, and what he hath done to your Congregation; and if it be ſo as appears by your Letter, it is a ſign that he is not of the ſeed of</hi> Aaron <hi>the High Prieſt, loving Peace and perſecuting it, loving the Creatures, and endeavouring to have Differences at Law with them; and it is not a new thing with him to deſire the continu<g ref="char:EOLhyphen"/>ance of Law-Suits whereſoever he lives, but alſo to faſten them on others; and thus he made his Diſturbances in</hi> Sally, <hi>and ſe<g ref="char:EOLhyphen"/>parated a Houſe of Prayer for himſelf, and in the end preten<g ref="char:EOLhyphen"/>ded to confirm what the Learned ſay,</hi> Every Houſe of Prayer
+<pb n="49" facs="tcp:42938:26"/>that is not deſigned to a good intention, cannot be confirm<g ref="char:EOLhyphen"/>ed: <hi>But on his ſide it ſignifies little what he can do unto you, for that we once, by reaſon of the complaints you made, uſed our utmoſt diligence to ſet you up a Houſe of Prayer, that ſo you might have no Communication with him; and yet you do join and meet with him; now you ſeek after him, you have no reaſon to complain: Yet not<g ref="char:EOLhyphen"/>withſtanding all this, if ſufficient Teſtimonies ſhall come, ſigned by thoſe that are not concerned on either ſide, we will do unto him here what the Law re<g ref="char:EOLhyphen"/>quires: But without this, by reaſon of the evil Offices that
+<pb n="50" facs="tcp:42938:27"/>you ſay he hath done, and does you, and for things he doth con<g ref="char:EOLhyphen"/>trary to the Law, as drinking of Wine, making profit of thoſe things which he cannot do ac<g ref="char:EOLhyphen"/>cording to Law, and acting ſe<g ref="char:EOLhyphen"/>veral things of the like nature, We order, That no</hi> Jew <hi>enter into his Houſe of Prayer to pray with him, much leſs rehearſe the Ten Commandments with him; and whoſoever ſhall enter into his Houſe of Prayer to pray with him, and rehearſe the Ten Com<g ref="char:EOLhyphen"/>mandments with him, he is Ex<g ref="char:EOLhyphen"/>communicated by the Juſtice of Heaven and Earth: And the ſame Excommunication reaches any one whatſoever that ſhall drink of the ſaid Wine, make any pro<g ref="char:EOLhyphen"/>fit
+<pb n="51" facs="tcp:42938:27"/>thereof, or of goods of the like nature; and whoſoever ſhall do any thing of what is above re<g ref="char:EOLhyphen"/>cited, and break our Order, there ſhall be uſed to him, the ſame as is uſual to thoſe perſons that are Excommunicated, No</hi> Jew <hi>ſhall ſpeak to him, much leſs ſhall he come within four cubits of him, and he cannot be esteemed for one of the Ten. We ſay no more.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Tituan,</hi> 
+                              <date> the 18 <hi>of Sinan,</hi> 5435.</date>
+                           </dateline>
+                           <signed>Jacob Aboab, Iſaac Bivas.</signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <p>There remain in <hi>Tangier</hi> many marks of the Roman Greatneſs, Ingenuity, Arts, and Architecture: as,</p>
+                  <pb n="52" facs="tcp:42938:28"/>
+                  <p n="1">1. The ſtrong, vaulted, well-compiled Foundations of Houſes, (in the digging up of which great ſtore of Medals are found, of <hi>Corinthian</hi> Braſs, Copper, and Silver, ſtamped with the Effigies of their Em<g ref="char:EOLhyphen"/>perours, and Conſuls, and with other Mottoes and Fancies.</p>
+                  <p n="2">2. The outſide of the Rock next to the Bay, between the Water-Gate and the Mole, on which the Town-Wall is built, which is faced with Rows of little Walls from the Water to the Foundation of it, equally diſtant one from the other; which ſerved not only to ſtrengthen the Foundation, and to keep it from ſliding, but
+<pb n="53" facs="tcp:42938:28"/>alſo for an Amphitheatre; and on theſe Rows of Seats did the people ſit to behold their Pa<g ref="char:EOLhyphen"/>ſtimes and Shews upon the Water, the whole Bay being under the view of it.</p>
+                  <p n="3">3. The curious Arches and Vaults, among which I ſaw one built with Brick and Free<g ref="char:EOLhyphen"/>ſtone, of an unknown length, about eight foot wide at the Floor, and about ten foot high; the half of which Arch is ſtanding, and ſerves for a curious, cloſe, cool Walk.</p>
+                  <p n="4">4. The Aqueducts, of which I have given an account before. I ſhall not mention the Salt-Pits, (though a pretty curio<g ref="char:EOLhyphen"/>fity, cut out in the Natural
+<pb n="54" facs="tcp:42938:29"/>Rocks that lie on the ſurface of the Ground within the Lines) nor the ſtrange, deep, narrow Pits cut into the Rocks, (of which I cannot apprehend the uſe, unleſs for Burying-places) becauſe they may be the work of the <hi>Portugueſes.</hi> But one thing I muſt mention, a Re<g ref="char:EOLhyphen"/>main of the <hi>Mooriſh</hi> Grandure, the Ruines of a moſt rich and ſumptuous Structure, ſome of the Floors whereof are yet to be ſeen, made of ſmall <hi>Roman</hi> Bricks two or three inches ſquare, of divers colours, the ſides of the Walls lined with delicate <hi>Moſaick</hi> Work; and in one place is an Inſcription of <hi>Arabick</hi> Characters cut in
+<pb n="55" facs="tcp:42938:29"/>Stone, not worn by time, though done more than three hundred years ſince, very eaſie and plain to be read, the Let<g ref="char:EOLhyphen"/>ters not being cut into the Stone, but the Stone cut away from the Letters; and becauſe this is a piece of great Curio<g ref="char:EOLhyphen"/>ſity, as well as Antiquity, I have cauſed it to be Tranſcri<g ref="char:EOLhyphen"/>bed from the Original, and afterward Tranſlated.</p>
+                  <pb n="56" facs="tcp:42938:30"/>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>The Tranſlation of an <hi>Arabick</hi> Inſcription contained in a Stone of Marble, at the Entrance from the Veſtry of the <hi>Engliſh</hi> Proteſtant Church of <hi>Tangier,</hi> called, <hi>CHARLES the Martyr,</hi> formerly a <hi>Mooriſh</hi> Convent.</head>
+                        <head type="sub">In the Name of God, <hi>Amen.</hi>
+                        </head>
+                        <p>AMemorandum <hi>of the holy Convent, under the Almighties Obedience, which God preſerve in his Grace and Favour:</hi>
+                        </p>
+                        <p>
+                           <hi>Being a Regiſter and Roll of the Revenues and Lands be<g ref="char:EOLhyphen"/>longing to the ſaid Convents
+<pb n="57" facs="tcp:42938:30"/>Incommings, as well thoſe which are ſituated within the City of</hi> Tangier, <hi>as without the ſame; together with their Limits and Diſtricts, and how far the ſaid Revenues do extend themſelves.</hi>
+                        </p>
+                        <p>
+                           <hi>Thoſe ſituated within the ſaid City, are,</hi> viz.</p>
+                        <p>
+                           <hi>First, A Shop wherein Herbs are ſold; and another where Starch is made and ſold; with another Shop nigh unto the Hal<g ref="char:EOLhyphen"/>bardeers; and another Shop ſomewhat higher, where Oyl, Figgs, Reaſons, and ſuch like Ware is ſold; and a third Shop adjoining to the former. And moreover, four other Shops, ſi<g ref="char:EOLhyphen"/>tuated in the Butchers Row, ad<g ref="char:EOLhyphen"/>joining
+<pb n="58" facs="tcp:42938:31"/>joining to each other: all which Shops afore-ſpecified, have each of them a little back-yard: and alſo another Taylors Shop un<g ref="char:EOLhyphen"/>der the Arch; with another Shop belonging to the Wafer<g ref="char:EOLhyphen"/>ſellers, next adjoining to the Bakehouſe; and another Shop where Chopt Straw is ſold, and Tinder and Match, and ſuch like Commodities; and another Moyety of a Shop where the Waterbearers refort, below the Spinters, the other half of which belongs to one, called</hi> Majanez; <hi>and from thence on the other ſide of the Street, hard by the Shop where Spicery Wares are ſold, and where the Cutlers do live, there is another Shop, equally
+<pb n="59" facs="tcp:42938:31"/>high with the ſaid Convents ſituation; as alſo a Houſe ſitua<g ref="char:EOLhyphen"/>ted in the Street where the Stone<g ref="char:EOLhyphen"/>cutters do live; a little higher than the Potters dwellings.</hi>
+                        </p>
+                        <p>
+                           <hi>Moreover, The Convent and its Church, is ſituated towards the</hi> Weſt, <hi>and doth contain a Court-yard, ſurrounded with Houſes or Lodgings; to wit, round about the whole ſituation; alſo the ſaid Convent hath a Free-School, being a large and vaſt Room, in which the Inha<g ref="char:EOLhyphen"/>bitants Children are taught to Write and Read; beſides which the Convent contained all ſuch Lodgings and Conveniences, and other neceſſary Offices and Ac<g ref="char:EOLhyphen"/>commodations as behoved, and
+<pb n="60" facs="tcp:42938:32"/>were neceſſary and requiſite for the entertaining and lodging of the Prieſts, Clerks, Lay-brothers, and other Miniſterial Perſons to the ſaid Convent belonging and appertaining. Beſides which, there was another Shop, fituated at the foot of the ſaid Convent; and yet lower than that, a ſecond Shop, where Earthen Ware, as Pots, Pans, and Diſhes, are uſually made,</hi> &amp;c. <hi>And this is the Revenues which the ſaid Convent doth enjoy within the ſaid Cities Walls.</hi>
+                        </p>
+                        <p>
+                           <hi>The Revenues belonging to the ſaid Convent ſituated with<g ref="char:EOLhyphen"/>out the Walls, in the Country abroad,</hi> viz.</p>
+                        <pb n="61" facs="tcp:42938:32"/>
+                        <p>
+                           <hi>Conſiſt in One hundred fifty and four ſeveral Fields and Gardens, with Houſes and Wells intermingled here and there; as alſo with ſome Orchards for Fruits, and Summer-Houſes for Recreation;</hi> all which are ſet down in the <hi>Mooriſh</hi> Roll, with their <hi>Mooriſh</hi> Names and Ap<g ref="char:EOLhyphen"/>pellations thereunto annexed; which being conceived to be too tedious and ſuperfluous to be here ſpecified, are omit<g ref="char:EOLhyphen"/>ted, as being of no moment nor benefit to be Read, but rather a trouble and vexation, <hi>&amp;c.</hi> being only bare <hi>Mooriſh</hi> obſolete Names, at preſent not known, nor in uſe, <hi>&amp;c.</hi>
+                        </p>
+                        <pb n="62" facs="tcp:42938:33"/>
+                        <p>Finally, The ſaid <hi>Mooriſh</hi> Roll is cloſed in this manner following, <hi>viz.</hi>
+                        </p>
+                        <p>
+                           <hi>And thus we have ſpecified all the Revenues and Incom<g ref="char:EOLhyphen"/>mings of the ſaid Convent; and to the end it may remain to po<g ref="char:EOLhyphen"/>ſterity, we have Engraven it in this Stone, on the laſt day of the Month called</hi> Rabbea the ſe<g ref="char:EOLhyphen"/>cond, <hi>In the Year Seven hun<g ref="char:EOLhyphen"/>dred forty and three; And thus we have made an end thereof,</hi> &amp;c.</p>
+                        <p>God be praiſed, <hi>Amen.</hi>
+                        </p>
+                        <p>It is to be obſerved, that ſince this <hi>Arabick</hi> Inſcription was Engraven on the ſaid Stone,
+<pb n="63" facs="tcp:42938:33"/>there are 343 years paſt, it being according to the <hi>Moo<g ref="char:EOLhyphen"/>riſh</hi> Accompt the year 1086. and with us according to the <hi>Chriſtian</hi> Computation, the year 1675. <hi>&amp;c.</hi> Which is on<g ref="char:EOLhyphen"/>ly ſet down to ſhew the mean<g ref="char:EOLhyphen"/>ing of the ſaid <hi>Arabick</hi> Inſcri<g ref="char:EOLhyphen"/>ption and Antiquity, for the better ſatisfaction of your Grace, who may pleaſe your ſelf with ſuch a Curiofity.</p>
+                        <p>The firſt Governour of <hi>Tan<g ref="char:EOLhyphen"/>gier</hi> under the King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> was the Earl of <hi>Peterbo<g ref="char:EOLhyphen"/>rough,</hi> a Perſon of Noble and Generous Qualities, a great Friend to the Souldiers, and
+<pb n="64" facs="tcp:42938:34"/>very likely to have made the Place conſiderable, had not His Majeſty, upon ſome grea<g ref="char:EOLhyphen"/>ter Imployments, called him home.</p>
+                        <p>In whoſe room was ſent that excellent Souldier the Earl of <hi>Tiveot,</hi> whoſe Fame will be freſh, while there is a Stone ſtanding in <hi>Tangier:</hi> he was of indefatigable Indu<g ref="char:EOLhyphen"/>ſtry, a compleat Souldier, a reſolute Man, and in all pro<g ref="char:EOLhyphen"/>bability had he lived to this time, would have enlarged the Demeans of <hi>Tangier</hi> to a very great compaſs: but in the midſt of his Endeavours, he was by falſe Intelligence be<g ref="char:EOLhyphen"/>tray'd to march out with five
+<pb n="65" facs="tcp:42938:34"/>hundred men, (moſt of them armed only as Pioneers) and were all, except a very few that eſcaped, deſtroyed toge<g ref="char:EOLhyphen"/>ther.</p>
+                        <p>Immediately after whoſe death, Sir <hi>Tobias Bridges,</hi> who Commanded the Horſe, was by joint conſent of the Offi<g ref="char:EOLhyphen"/>cers, voted to the Govern<g ref="char:EOLhyphen"/>ment; which he held till</p>
+                        <p>Col. <hi>John Fitz Gerald,</hi> (a Gentleman as well of known Valour, and try'd Experi<g ref="char:EOLhyphen"/>ence, as of an Ancient Fami<g ref="char:EOLhyphen"/>ly) was made Deputy-Gover<g ref="char:EOLhyphen"/>nour.</p>
+                        <p>And ſo remained until the Lord <hi>Bellaſis</hi> was ſent over, whoſe Gentleneſs, Prudence,
+<pb n="66" facs="tcp:42938:35"/>and Moderation, did mightily endear him both to Gariſon and Town: but his indiſpo<g ref="char:EOLhyphen"/>ſition urged him, within leſs than a year, to get His Ma<g ref="char:EOLhyphen"/>jeſties Leave to be recalled, much to the ſorrow of that Place.</p>
+                        <p>Upon his return, Col. <hi>Hen<g ref="char:EOLhyphen"/>ry Norwood</hi> was appointed De<g ref="char:EOLhyphen"/>puty-Governour; who not only terrified the <hi>Moors</hi> by his Arms, but out-did them in their Wit, and managed the Government of that Place with very great Honour to the King, and Advantage to the People.</p>
+                        <p>Then the Earl of <hi>Middleton</hi> was appointed Governour, a
+<pb n="67" facs="tcp:42938:35"/>Perſon very famous for his Conduct in War, of great Cou<g ref="char:EOLhyphen"/>rage, and as great Experience, of excellent Learning and Parts, and Liberal beyond Example: He made the Go<g ref="char:EOLhyphen"/>vernours Houſe, of a <hi>Portu<g ref="char:EOLhyphen"/>gueſe</hi>-Dungeon, to become a very Noble Palace; cauſed the Caſtle, with the Store-houſes of Victuals and Ammunition, to be ſeparated from the Town by a ſtrong Wall; and would have done many brave Things for the Good of that Place, but falling into a Flux, he was much weakned; and riſing one night to call for a Candle, he ſtumbled over his Servant, who lay croſs the
+<pb n="68" facs="tcp:42938:36"/>Threſhold faſt aſleep, and with the fall broke his Arm ſhort at the Shoulder, and within a few days died.</p>
+                        <p>After his death, Col. <hi>Roger Alſop</hi> was appointed Deputy-Governour; who, if his Legs were anſwerable to his Heart, would give convincing Teſti<g ref="char:EOLhyphen"/>monies of his great Worthineſs of that, and a much better Imployment.</p>
+                        <p>The Earl of <hi>Inſiquin</hi> is the preſent Governor, whoſe Cha<g ref="char:EOLhyphen"/>racter to Write, were a kind of flattery to commend before the Face; and to your Grace eſpecially, who ſo well know him, I need ſay but this, He is of greater Abilities than either
+<pb n="69" facs="tcp:42938:36"/>himſelf would diſcover, or his Friends could expect, till he came to the Tryal of them; and I cannot doubt but that His Majeſty will find him to be moſt uſeful for His Service there, or in any other Place.</p>
+                        <p>And now, my Lord, having led you a tedious Walk round our little Town, and narrow Lines, (which may be paced over in the time that this Paper may be read) I am to beg pardon for this moſt impertinent Interruption; which I cannot but hope for, becauſe innocently intended: And as I have reaſon to be<g ref="char:EOLhyphen"/>lieve, your Grace will not
+<pb n="70" facs="tcp:42938:37"/>read it twice; ſo I ſeriouſly promiſe, you ſhall never be troubled in this manner again by,</p>
+                        <closer>
+                           <salute>My LORD,</salute>
+                           <signed>Your Graces most Obedient Servant, <hi>G. P.</hi>
+                           </signed>
+                           <dateline>
+                              <hi>Tangier,</hi> 
+                              <date>
+                                 <hi>Sept.</hi> 29. 1675.</date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:42938:37"/>
+                  <p>THE PRESENT STATE OF Algiers.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>H. Herringman,</hi> 1676.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:42938:38"/>
+                  <pb n="73" facs="tcp:42938:38"/>
+                  <head>THE PRESENT STATE OF <hi>ALGIERS.</hi>
+                  </head>
+                  <head type="sub">Their Firſt Riſe. The Several Changes of the Government. The Manner of the Preſent State, and the Prin<g ref="char:EOLhyphen"/>cipal Perſons in Credit. What People the City of <hi>Algiers</hi> conſiſts of, and the Number of the Inhabi<g ref="char:EOLhyphen"/>tants. Their Militia, and the Diſ<g ref="char:EOLhyphen"/>cipline thereof. Their Naval For<g ref="char:EOLhyphen"/>ces, and Sea-Diſcipline.</head>
+                  <p>
+                     <seg rend="decorInit">B</seg>Y the Ancient Re<g ref="char:EOLhyphen"/>cords of the <hi>Divan Hoggi,</hi> or Publick Secretary, it ap<g ref="char:EOLhyphen"/>pears, that the City was for<g ref="char:EOLhyphen"/>merly
+<pb n="74" facs="tcp:42938:39"/>Commanded by the <hi>Genoeeſes,</hi> who kept a conſtant Gariſon in the Caſtle, that ſtands at the head of the Mole, of about three hundred men, until the defeat of <hi>Bajazett</hi> by <hi>Tamberlain</hi> the Great, when two Brigantines of fugitive Turks put in there for ſhelter; who conſpiring with the <hi>Arabs</hi> and <hi>Moors,</hi>
+                     <note place="margin">
+                        <hi>Then the</hi> Divan <hi>was kept in the Caſ<g ref="char:EOLhyphen"/>ſale, the</hi> Aga <hi>was kept in a Cage to preſerve himſelf from the fury of the multitude.</hi>
+                     </note> in a few days after, on a Holy-day, (as they were at Maſs) fell upon them, and became their Maſters. Where<g ref="char:EOLhyphen"/>upon, as having before practi<g ref="char:EOLhyphen"/>ſed the Trade of Piracy, they armed all the Veſſels they could make themſelves Maſters of,
+<pb n="75" facs="tcp:42938:39"/>and in ſhort time had One hun<g ref="char:EOLhyphen"/>dred &amp; fifty Sail in <hi>Corſo.</hi> They builded then likewiſe the <hi>Caſ<g ref="char:EOLhyphen"/>ſale,</hi> where the Publick Trea<g ref="char:EOLhyphen"/>ſure is kept, and the principal Magazines for Arms and Pro<g ref="char:EOLhyphen"/>viſions, and formed a Govern<g ref="char:EOLhyphen"/>ment by a <hi>Divan,</hi> who was to ſit every <hi>Saturday</hi> to con<g ref="char:EOLhyphen"/>ſult of Publick Affairs, till in the year of the <hi>Hegira</hi> 810. in reſpect to the <hi>Grand Seignior,</hi> they admitted Baſhaws of his to precide in the <hi>Divan,</hi> and Govern them; (only keeping in their hands the Command of the <hi>Caſſale:</hi>) The firſt where<g ref="char:EOLhyphen"/>of was called <hi>Oſman Baſhaw,</hi> allowing them 12000 Dollars <hi>per annum</hi> out of the pay, be<g ref="char:EOLhyphen"/>ſides
+<pb n="76" facs="tcp:42938:40"/>an allowance of all ſorts of Proviſion for his whole Fa<g ref="char:EOLhyphen"/>mily and Officers.</p>
+                  <p>Under theſe Baſhaws (who above the ſaid allowance found ways to exact great Treaſures from the <hi>Moors</hi> and Inhabi<g ref="char:EOLhyphen"/>tants, in ſo much that ſome of them, after their ordinary three years reſidence, have been known to carry away 200000 Dollars, beſides Jewels, <hi>&amp;c.</hi>) they lived with great Obedi<g ref="char:EOLhyphen"/>ence, notwithſtanding all the ſaid Oppreſſions, until the time of <hi>
+                        <g ref="char:V">Ʋ</g>ſuff Baſhaw,</hi> a Gal<g ref="char:EOLhyphen"/>lant Prince, and one that made it more his buſineſs to increaſe the Conqueſts againſt the <hi>Moors,</hi> than to maſs up Wealth,
+<pb n="77" facs="tcp:42938:40"/>for which reaſon then, upon the Petition of the Publick <hi>Divan,</hi> his Commiſſion by the <hi>Grand Seignior</hi> was renewed. He took <hi>Constantine</hi> from the <hi>Moors, Bugia</hi> from the <hi>Chriſtians, Bona</hi> from the <hi>Tuniſeenes,</hi> marched with his Army in<g ref="char:EOLhyphen"/>to the <hi>Zachary,</hi>
+                     <note place="margin">A deſart Coun<g ref="char:EOLhyphen"/>try only affording Dates.</note> ſixty days South-Eaſt, and continued his Con<g ref="char:EOLhyphen"/>queſt four months march to<g ref="char:EOLhyphen"/>wards <hi>Angola,</hi> all which are to this day Tributary to <hi>Algiers:</hi> So having been two years in the Camp, he returned in great triumph, accompanied with all the popular applauſes ima<g ref="char:EOLhyphen"/>ginable. But all this could not ſecure him from the ſecret con<g ref="char:EOLhyphen"/>ſpiracy
+<pb n="78" facs="tcp:42938:41"/>of his <hi>Kia;</hi> who, ha<g ref="char:EOLhyphen"/>ving had the ſweetneſs and be<g ref="char:EOLhyphen"/>nefit of the pay in his abſence, made a faction againſt him, murdering him in the <hi>Bettiſtan,</hi> or <hi>Market-place,</hi> in the year 1642. Since which time, though they have received the Baſhaws ſent by the <hi>Grand Seignior,</hi> yet have they never admitted them to ſit in the <hi>Di<g ref="char:EOLhyphen"/>van,</hi> or to meddle with Pub<g ref="char:EOLhyphen"/>lick Affairs, but they have been muzled, receiving only their ancient allowance, the extraordinary Revenues being wholly taken away; ſo that this place being not of ſo great profit as was formerly, it has not been ſo greedily ſought for
+<pb n="79" facs="tcp:42938:41"/>at the <hi>Ottomans Porte,</hi> witneſs this preſent Baſhaw, called <hi>Iſ<g ref="char:EOLhyphen"/>mael,</hi> who has lived here now near fifteen years.</p>
+                  <p>After the ſaid Rebellion, there has been a perſon choſen out of, and by the <hi>Divan,</hi> to ſit over the pay, and had the Title of Governour. To his care was committed the receipt and payment of all money brought into the Publick; and his preſence required at the pay of the Souldiers, which is every two months. Thir<g ref="char:EOLhyphen"/>teen perſons have ſucceeded in this Office, of which but one is found to have died in his bed, the other having been poiſoned, or murthered by
+<pb n="80" facs="tcp:42938:42"/>ſome means or other. The laſt that ſerved in that Office, was <hi>Ally Aga,</hi> who was cut in pieces by the Souldiers in the year 1672. after their Ships were burnt in <hi>Bugia:</hi> When the ſaid <hi>Ally Aga</hi> came to the Government, the <hi>Divan</hi> con<g ref="char:EOLhyphen"/>ſiſted of <hi>Bulga-Baſhaws, Geo-Baſhaws,</hi> and <hi>Youde-Baſhaws,</hi> in all above one thouſand Per<g ref="char:EOLhyphen"/>ſons, beſides that the Souldi<g ref="char:EOLhyphen"/>ers would come into the <hi>Divan</hi> upon any Foreign Affair that was to be debated; ſo that it was a rabble of people, and a confuſed multitude, until he found a way to reduce them to forty eight, of each quality beforementioned, <hi>viz.</hi> 144
+<pb n="81" facs="tcp:42938:42"/>perſons in all, whereof himſelf was the head. The day that he was murthered, all the Soul<g ref="char:EOLhyphen"/>diers were in Arms in great confuſion; ſome that were of his party fled and eſcaped, o<g ref="char:EOLhyphen"/>thers were kill'd in the Streets, and in their Houſes: the <hi>Ba<g ref="char:EOLhyphen"/>ſhaw</hi> then brought out the <hi>Grand Seigniors</hi> Bandera, and made Burgone, That all Soul<g ref="char:EOLhyphen"/>diers ſhould come under it; which they readily ſubmitted to; ſo that it was believed the <hi>Baſhaw</hi> would be brought into the Kings Houſe, or place of Judicature, and the former Authority of his Predeceſſors not only reſtored, but alſo the Keys of the <hi>Caſſale</hi> given him,
+<pb n="82" facs="tcp:42938:43"/>when in the middle of the tu<g ref="char:EOLhyphen"/>mult, a bolder fellow than the reſt cry'd out to bring in <hi>Ma<g ref="char:EOLhyphen"/>homet Raiſe Treig,</hi> formerly Admiral,
+<note place="margin">Preſent Go<g ref="char:EOLhyphen"/>vernment.</note> but at that time in diſgrace: this cry was ſeconded by all the Sea-faring people, and in leſs than half an hour it was deter<g ref="char:EOLhyphen"/>mined to fetch <hi>Treig</hi> to the Kings Houſe. The Old Man knew not whether they came to Kill, or to Crown him: But ſo ſoon as he came there, he was given to underſtand that they had choſen him Go<g ref="char:EOLhyphen"/>vernour; which he obſtinately refuſed, until ſome that had occaſioned his coming thither, cryed, <hi>Father, Will you let us
+<pb n="83" facs="tcp:42938:43"/>ſuffer by your Humility?</hi> Up<g ref="char:EOLhyphen"/>on which he made a bold ſpeech to the Souldiers, telling them, <hi>If they gave the Govern<g ref="char:EOLhyphen"/>ment into his hands, he would be abſolute, and no ways con<g ref="char:EOLhyphen"/>trouled by the</hi> Divan; <hi>whoſe Counſel he would willingly ad<g ref="char:EOLhyphen"/>here unto, but the Deciſive Vote ſhould be left to him.</hi> They, unwilling to refuſe him any thing at that time, did above all this deliver unto him the Keys of the <hi>Caſſale,</hi> never be<g ref="char:EOLhyphen"/>fore in the poſſeſſion of one man, but kept by Eighty <hi>Bulga-Baſhaws</hi> that attended there by turns, Eighty every week going up and exchanging the other Eighty; and ſo they pro<g ref="char:EOLhyphen"/>claimed
+<pb n="84" facs="tcp:42938:44"/>him by the Name of <hi>Dey,</hi> making him Superinten<g ref="char:EOLhyphen"/>dent over all the Militia by Sea and Land, Director of the <hi>Cadees,</hi> and Head of the <hi>Divan.</hi> To his aſſiſtance they joined <hi>Babba Haſſan,</hi>
+                     <note place="margin">
+                        <hi>The</hi> Divan <hi>is reduced by this Go<g ref="char:EOLhyphen"/>vernour to</hi> 24 Yeo-Baſhaws, 24 Bul<g ref="char:EOLhyphen"/>ga-Baſhaws, 24 You-Baſhaws; <hi>in all</hi> 72.</note> one that married his daugh<g ref="char:EOLhyphen"/>ter, a ſtout Turk, and well learned in the <hi>Maho<g ref="char:EOLhyphen"/>metan</hi> Law; to his charge is com<g ref="char:EOLhyphen"/>mitted all Receipts and Pay<g ref="char:EOLhyphen"/>ments, ſo that he hath the ſame Office former Governours had, he is intituled the <hi>Dey</hi>'s Lieutenant, and General of the Army: without the City, he acts in all reſpects with as ab<g ref="char:EOLhyphen"/>ſolute power as the <hi>Dey</hi> him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="85" facs="tcp:42938:44"/>and neither of them makes uſe of the <hi>Divan</hi> for any thing but trifling affairs.</p>
+                  <div type="part">
+                     <head>The Aga.</head>
+                     <p>THere is alſo an <hi>Aga,</hi> (or Lord Mayor of the Ci<g ref="char:EOLhyphen"/>ty) exchanged every two months. This Office is taken gradually, as will be ſeen in the manner of the Militia: He is attended by eight Grand Chomes, and ſeveral other Officers; hath Drums and Trumpets, and other Muſick allowed him, and twelve thou<g ref="char:EOLhyphen"/>ſand Doubles to defray the charges of his Agaſhip. He
+<pb n="86" facs="tcp:42938:45"/>is the ſecond perſon in the <hi>Di<g ref="char:EOLhyphen"/>van,</hi>
+                        <note place="margin">
+                           <hi>Caya</hi> or <hi>Kia.</hi>
+                        </note> and hath a <hi>Kia</hi> that acts like a <hi>Cham<g ref="char:EOLhyphen"/>berlain</hi> of the City, and de<g ref="char:EOLhyphen"/>cides all Differences that hap<g ref="char:EOLhyphen"/>pen between one Inhabitant and another, unleſs it be ſome criminal cauſe, and then he carries them to the <hi>Deye;</hi> or a cauſe in Law about the Title of Houſes, and then he ſends to the <hi>Caddee,</hi> who is to de<g ref="char:EOLhyphen"/>termine the matter <hi>gratis.</hi> All other Places of Truſt, Civil as well as Military, are wholly in the diſpoſal of the <hi>Deye,</hi> or his Lieutenant <hi>Bobba Haſſan,</hi> who ſo well underſtand each other in the Government, that hitherto nothing has been con<g ref="char:EOLhyphen"/>tradicted
+<pb n="87" facs="tcp:42938:45"/>which one hath pro<g ref="char:EOLhyphen"/>poſed or acted.</p>
+                     <p>The City conſiſts of divers ſorts of people, as,</p>
+                     <div n="1" type="section">
+                        <head>I. <hi>Cololies.</hi>
+                        </head>
+                        <p>
+                           <hi>Cololies,</hi> or the Sons of <hi>Turks</hi> born there, which for the moſt part are brought up to Handicraft-Trades: for ſince the time of <hi>Maharam Baſhaw,</hi> which was in the year 1625. the <hi>Cololi</hi> made a con<g ref="char:EOLhyphen"/>ſpiracy againſt the Govern<g ref="char:EOLhyphen"/>ment, and ſeized on the <hi>Caſſale,</hi> and blew it up, wherein was by eſtimation five hundred Barrels of Powder, hoping by this means to bring the Go<g ref="char:EOLhyphen"/>vernment
+<pb n="88" facs="tcp:42938:46"/>into their hands, but they were preſently overcome, and it was then decreed that none of the <hi>Cololies</hi> ſhould ever be capable of any Publick Office by Land for the future; yet they are continued in pay, and may riſe to forty <hi>Dobles per</hi> month, according to their merits.</p>
+                     </div>
+                     <div n="2" type="section">
+                        <head>II. <hi>Jews.</hi>
+                        </head>
+                        <p>THe <hi>Jews,</hi> whereof there are two ſorts, the Na<g ref="char:EOLhyphen"/>tives conſiſting of thirteen thouſand Families, which for the moſt part are Handicraft<g ref="char:EOLhyphen"/>men and Brokers; the other <hi>Chriſtian Jews,</hi> ſo called be<g ref="char:EOLhyphen"/>cauſe
+<pb n="89" facs="tcp:42938:46"/>they are bred up in <hi>Spain, Portugal</hi> and <hi>Italy,</hi> and go ha<g ref="char:EOLhyphen"/>bited like the people of the Country from whence they came; theſe are for the moſt part Merchants, and cunning fellows above the reſt.</p>
+                     </div>
+                     <div n="3" type="section">
+                        <head>III. <hi>Tagareens.</hi>
+                        </head>
+                        <p>THe <hi>Tagareens</hi> are baniſh<g ref="char:EOLhyphen"/>ed <hi>Moors</hi> from <hi>Andalu<g ref="char:EOLhyphen"/>ſia,</hi> of which there is about eight hundred Families: they are the principal people that deal in Slaves, and are great <hi>Armadores</hi> to fit out Ships againſt the <hi>Chriſtians,</hi> being for the moſt part very rich.</p>
+                     </div>
+                     <div n="4" type="section">
+                        <pb n="90" facs="tcp:42938:47"/>
+                        <head>IV. <hi>Jerbeenes.</hi>
+                        </head>
+                        <p>THe <hi>Jerbeenes,</hi> ſo called from the Iſle <hi>Jerbis</hi> near <hi>Tunis;</hi> theſe are all Merchants or Pedlars, and may be about three hundred Families, be<g ref="char:EOLhyphen"/>ſides Comers and Goers, who may have ſix or eight Barks and Veſſels yearly Trading be<g ref="char:EOLhyphen"/>tween <hi>Jerby, Alexandria, Tu<g ref="char:EOLhyphen"/>nis, Tripoli</hi> and <hi>Algiers.</hi>
+                        </p>
+                     </div>
+                     <div n="5" type="section">
+                        <head>V. <hi>Moors.</hi>
+                        </head>
+                        <p>THe Native <hi>Moors,</hi> who have by little and little gotten Houſes and Habitations within the City, and are about ſeven hundred Families.</p>
+                     </div>
+                     <div n="6" type="section">
+                        <pb n="91" facs="tcp:42938:47"/>
+                        <head>VI.</head>
+                        <p>
+                           <hi>CAbiles, Biſcaries,</hi> and <hi>Moors,</hi> from the <hi>Zacha<g ref="char:EOLhyphen"/>ry,</hi> or Southern Country: they ſerve as Porters, and are leſs eſteemed amongſt the <hi>Turks,</hi> than the <hi>Chriſtian</hi> Slaves: they attend the Souldiers to dreſs their Horſes, and other ſlaviſh ſervices, for which they have no other reward but a little bread; they are in number at leaſt five thouſand.</p>
+                     </div>
+                     <div n="7" type="section">
+                        <head>VII. <hi>Chriſtian Slaves.</hi>
+                        </head>
+                        <p>I Know not if it be proper to ſet down here the Chri<g ref="char:EOLhyphen"/>ſtian Slaves alſo, that accor<g ref="char:EOLhyphen"/>ding
+<pb n="92" facs="tcp:42938:48"/>to the beſt Computation are conſtantly Eighteen thou<g ref="char:EOLhyphen"/>ſand; of which about Nine hundred are Gally-Slaves, whoſe lives are very miſerable, the reſt are imployed by their ſeveral Patrons, ſome in their Garden-houſe, or ſent to Sea, according to the profeſſions and qualities of the Patrons, by whom for the moſt part they are better treated than any Slaves in all the <hi>Grand Seig<g ref="char:EOLhyphen"/>niors</hi> Dominion, having the benefit to keep Shops, Ta<g ref="char:EOLhyphen"/>verns, to work upon their Handicraft-Trade, paying their Patrons a certainty a month, not exceeding three <hi>Dollars per</hi> month, according to the
+<pb n="93" facs="tcp:42938:48"/>beſt agreement they can make; and what they can make more, is not in the power of the Pa<g ref="char:EOLhyphen"/>tron to take away from them; by which means many thou<g ref="char:EOLhyphen"/>ſands of Captives have ob<g ref="char:EOLhyphen"/>tained their liberty by their own induſtry. They have alſo liberty to ſay Maſs, and hear it every day in the week at the reſpective Banyards, and places allowed for that ſervice. The Proteſtants alſo have a place to preach and pray in, which is performed in the <hi>Engliſh</hi> Conſuls Houſe by the ſeveral Nations, <hi>Engliſh, German,</hi> and <hi>Dutch, &amp;c.</hi>
+                           <note place="margin">Proteſtants have the benefit of the Hoſpital.</note> They have alſo an Ho<g ref="char:EOLhyphen"/>ſpital maintained
+<pb n="94" facs="tcp:42938:49"/>by the King of <hi>Spain,</hi> with an allowance of twelve thou<g ref="char:EOLhyphen"/>ſand <hi>Dollars per annum,</hi> a Do<g ref="char:EOLhyphen"/>ctor, Chi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urgeon, and Apo<g ref="char:EOLhyphen"/>thecary, with two Fathers of the Order of St. <hi>Trinidad</hi> to ſay Maſs. There is alſo a Vi<g ref="char:EOLhyphen"/>car-General, who has allow<g ref="char:EOLhyphen"/>ance of ſix thouſand <hi>Dollars per annum</hi> out of <hi>France,</hi> being left as a Legacy by the old Dutcheſs of <hi>Orleance.</hi>
+                        </p>
+                        <p>All theſe aboveſaid are com<g ref="char:EOLhyphen"/>manded by the <hi>Levant-Turks,</hi> which in all exceed not ſixteen thouſand. Out of which they have three Camps, or march<g ref="char:EOLhyphen"/>ing Armies, and thirteen Ga<g ref="char:EOLhyphen"/>riſons to be ſupplyed, beſides the Ships and Galleys at Sea;
+<pb n="95" facs="tcp:42938:49"/>ſo that in the Town to Go<g ref="char:EOLhyphen"/>vern this vaſt multitude, is ſeldom left more than two thouſand Souldiers.</p>
+                        <p>It would fill a very great Volume to relate the Diffe<g ref="char:EOLhyphen"/>rences and Hereſies they have one among the other in their Religion; but all the <hi>Maho<g ref="char:EOLhyphen"/>metans</hi> frequent one and the ſame Meskitos and Churches, and are not ſo inveterate one againſt the other, as the ſeveral Sects amongſt the <hi>Chriſtians.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="96" facs="tcp:42938:50"/>
+                     <head>Militia.</head>
+                     <p>THe <hi>Militia</hi> conſiſts of two ſorts of Souldiers, of which the principal are the <hi>Levant-Turks,</hi> brought hither yearly by Ships employed to that ſervice, as occaſion re<g ref="char:EOLhyphen"/>quires. At their firſt entrance into their pay, they are called young <hi>Turks,</hi> and have four <hi>Dobles per</hi> month, four Loafs of bread <hi>per diem,</hi> and a Lodg<g ref="char:EOLhyphen"/>ing in the <hi>Caſharee,</hi> or Publick Quarter: his pay increaſeth one <hi>Doble per annum,</hi> and one <hi>Doble</hi> every time he goes into the Camp, and engageth againſt
+<pb n="97" facs="tcp:42938:50"/>the Enemy, and one <hi>Doble</hi> for every head he brings from the Enemy. At the death or re<g ref="char:EOLhyphen"/>moval of every <hi>Baſhaw,</hi> or <hi>Dey,</hi> or <hi>Governour,</hi> the pay increaſeth one <hi>Doble per</hi> month, until his pay amount to forty <hi>Dobles per</hi> month, and his bread to eight Loaves <hi>per diem;</hi> then he is in full pay, and can riſe no higher in pay, although he hath never ſo high an Office: ſo that the pay of the <hi>Dey</hi> himſelf is no more than forty <hi>Dobles per</hi> month, and eight Loaves of bread, though he hath other Perqui<g ref="char:EOLhyphen"/>ſites, <hi>&amp;c.</hi> that amounts to a vaſt, but unknown ſum. If a Souldier marries, he loſes
+<pb n="98" facs="tcp:42938:51"/>the benefit of his bread, and lodging in the <hi>Caſharee.</hi> A Souldiers firſt Preferment is to be <hi>Spahee,</hi> or <hi>Trooper;</hi> from a <hi>Spahee</hi> he comes to be a <hi>Ste<g ref="char:EOLhyphen"/>ward</hi> of the <hi>Caſharee,</hi> or a <hi>Quartermaſter</hi> for his <hi>Tent:</hi> from thence an <hi>Oude-Baſhaw,</hi> and then a <hi>Yeo-Baſhaw:</hi> the eldeſt <hi>Yeo-Baſhaw</hi> is <hi>Kia,</hi> or <hi>High Sheriff</hi> of the City; he in two months becomes <hi>Aga,</hi> or <hi>Lord Mayor</hi> of the City; whoſe Office, as I ſaid before, laſts but two months, and then he is <hi>miſuled,</hi> and paſt all Of<g ref="char:EOLhyphen"/>fices of the Government; ſtands in full pay, and is called <hi>Miſ<g ref="char:EOLhyphen"/>ſul'd Aga:</hi> It is uſual to be thirty or forty years in pay
+<pb n="99" facs="tcp:42938:51"/>before they come to that Of<g ref="char:EOLhyphen"/>fice.</p>
+                     <p>But the pooreſt Souldier, and though never ſo ignorant and incapable, when his turn comes, is ſet on Horſe-back, and hath a rich Veſt put upon him, and made <hi>Aga</hi> for two months, which may be worth to him, beſides the Honour, about five hundred <hi>Dollars.</hi> There are many Souldiers that, after they arrive to be <hi>Spahees,</hi>
+                        <note place="margin">
+                           <hi>Sometimes an</hi> A<g ref="char:EOLhyphen"/>ga <hi>is changed in two days, but he hath the full allow<g ref="char:EOLhyphen"/>ance for the whole time.</hi>
+                        </note> de<g ref="char:EOLhyphen"/>ſire to continue ſo; and then they, next to him, take his Office: Of theſe are about two thouſand, that have their allowance for their Horſes, and
+<pb n="100" facs="tcp:42938:52"/>are in full pay, keep ranging up and down the Country, and have Free-Quarter where-ever they go amongſt the <hi>Moors:</hi> They aſſiſt the <hi>Beyes</hi> to gather in Contribution, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>Runnegadoes.</head>
+                     <p>
+                        <hi>ARunnegado</hi> that is writ<g ref="char:EOLhyphen"/>ten in the pay, enjoys all the benefit that a Natural <hi>Turk</hi> doth, and is made <hi>Aga</hi> when his turn comes, as well as a <hi>Levant-Turk.</hi> If a Slave turns <hi>Runnegado,</hi> it is at the pleaſure of his Patron to have him written in the pay, for he
+<pb n="101" facs="tcp:42938:52"/>continues ſtill a Slave, unleſs his Patron gives him his liber<g ref="char:EOLhyphen"/>ty. There are of the <hi>Runne<g ref="char:EOLhyphen"/>gadoes</hi> written in pay about three thouſand.</p>
+                  </div>
+                  <div type="part">
+                     <head>Zwows.</head>
+                     <p>THe next rank of Souldi<g ref="char:EOLhyphen"/>ers are called <hi>Zwows;</hi> theſe are <hi>Moors</hi> that Liſt them<g ref="char:EOLhyphen"/>ſelves in pay upon any extra<g ref="char:EOLhyphen"/>ordinary occaſion, and are <hi>du<g ref="char:EOLhyphen"/>rante beneplacito,</hi> and their pay never exceeds twenty <hi>Dobles per</hi> month. But their Officers are better paid, which are elective: Theſe are always
+<pb n="102" facs="tcp:42938:53"/>placed in front of the Battle, with Muskets. To which may be added the <hi>Subby Anni,</hi> a ſort of reſolute ſalvage <hi>Moors,</hi> that wait upon the <hi>Turks,</hi> and live upon the ſpoil of the Ene<g ref="char:EOLhyphen"/>my: They fight with Pikes or Launces only. Of the <hi>Zwows</hi> are in number and pay about four thouſand.</p>
+                     <p>When they fight with the <hi>Moors</hi> and overcome them, all the ſpoil of the Enemy is brought to the <hi>Deyes</hi> or <hi>Ge<g ref="char:EOLhyphen"/>nerals Tent,</hi> it being account<g ref="char:EOLhyphen"/>ed a great crime and diſgrace for any Souldier to touch the worth of an <hi>Aſper,</hi> but to get the heads of the <hi>Moors,</hi> and bring them to the <hi>Deyes Tent,</hi>
+                        <pb n="103" facs="tcp:42938:53"/>receiving for every head as be fore hath been ſaid, a <hi>Doble per</hi> month in pay until he comes in full pay, by which means they ſeldom or never give Quarter in time of fight; nor is there between any Ene<g ref="char:EOLhyphen"/>mies in the World ſuch an ha<g ref="char:EOLhyphen"/>tred as the <hi>Moors</hi> and the <hi>Turks</hi> bear one to the other. Their Order of March and Diſcipline in the Camp, is ſo little diffe<g ref="char:EOLhyphen"/>rent from the <hi>Turks</hi> in other parts of the <hi>Grand Seigniors</hi> Territories, that it will be needleſs to relate more of them.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="104" facs="tcp:42938:54"/>
+                     <head>Naval Forces, and Diſ<g ref="char:EOLhyphen"/>cipline thereof.</head>
+                     <p>THeir Naval Forces four years ſince was the greateſt part deſtroyed by the <hi>Engliſh</hi> at <hi>Cape Spartle</hi> and <hi>Bu<g ref="char:EOLhyphen"/>gia:</hi> but they have ſince built about five and twenty Sail of Ships, good Men of War, from twenty to forty Guns, and have at preſent thirty two Men of War, and three Galleys, the Liſt whereof I have here<g ref="char:EOLhyphen"/>unto annexed, beſides ſeveral Brigantines and ſmall Crafts, and two Ships upon the Stock
+<pb n="105" facs="tcp:42938:54"/>that will carry fifty Guns each. The manner of maintaining is different to any that I have either ſeen or heard of; for of all the ſaid Ships and Gal<g ref="char:EOLhyphen"/>leys, not one of them belongs to the Publick, but all to pri<g ref="char:EOLhyphen"/>vate perſons, armed out as our Privateers in <hi>England.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>The Souldiers know when their turn is to go into the Camp, at which time he may not be abſent.</head>
+                     <p>THe Souldiers that go to Sea in their Ships, are not taken notice of when they Embark, nor are commanded
+<pb n="106" facs="tcp:42938:55"/>to that ſervice; ſo that it is not eaſie to know how many Men go in every Ship, being ſome<g ref="char:EOLhyphen"/>times twice as many as at other times; and if a Souldier loſe a Leg or an Arm in the Sea<g ref="char:EOLhyphen"/>ſervice, he is cut off half his pay, and is incapable of any other Office in the Publick.</p>
+                     <p>The Armadors that fit out the Ships, provide no Ammu<g ref="char:EOLhyphen"/>nition for the ſmall Arms, but each Soldier finds his own Muſ<g ref="char:EOLhyphen"/>quet and Cutles, with Powder and Shot. For Proviſion they have only Bread and Vinegar, and ſome few Olives from the Armadors.</p>
+                     <p>They lie always upon the Deck without Cabins or Ha<g ref="char:EOLhyphen"/>macks,
+<pb n="107" facs="tcp:42938:55"/>and are quartered in time of fight not much diffe<g ref="char:EOLhyphen"/>rent to what they are in our Men of War. The Souldiers that are upon the upper Deck, and ſtand only to their Muſ<g ref="char:EOLhyphen"/>quets, are called the <hi>Tiffa.</hi> They have great encourage<g ref="char:EOLhyphen"/>ment for entring of the Prize if they fight; he that gets an Enſign hath a reward ſome<g ref="char:EOLhyphen"/>times of three hundred <hi>Dollars;</hi> and the like is given to the firſt, ſecond, and third Man that enters, according to the hazard he hath attempted.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="108" facs="tcp:42938:56"/>
+                     <head>How they ſhare their Plunder.</head>
+                     <p>WHen the Prize is ta<g ref="char:EOLhyphen"/>ken, there is no Pow<g ref="char:EOLhyphen"/>der belongs to any body, but all is brought to the Main-maſt and ſold, and that money is kept and joined to the reſt. Then the Ship, Goods, and Slaves are ſold for the moſt; one eighth part of the Goods and Slaves belong to the Pub<g ref="char:EOLhyphen"/>lick, and half of the Hull of the Ship, the other half be<g ref="char:EOLhyphen"/>longs to the Armadors, after the <hi>Beylick</hi> or publick part is deducted, one half of the reſt is the Armadors, the remainder belongs to the Ships company,
+<pb n="109" facs="tcp:42938:56"/>and is thus ſhared: The Cap<g ref="char:EOLhyphen"/>tain hath twenty ſhares for himſelf, the Leiutenant five ſhares, the Gunner three ſhares, the Gunroom crew and beſt Souldiers two ſhares, the private Souldiers one ſhare; a <hi>Chriſtian</hi> Slave hath two ſhares; a ſalvage <hi>Moor</hi> (of which many go to Sea) one ſhare. There goes alſo an <hi>Aga</hi> in each Ship, whoſe Of<g ref="char:EOLhyphen"/>fice is the ſame of a Judge Ad<g ref="char:EOLhyphen"/>vocate, and hath a greater Command over the Men than the Captain, except in time of Fight; He is ſent on Board by the Publick to re<g ref="char:EOLhyphen"/>preſent at his return any diffe<g ref="char:EOLhyphen"/>rence that ſhould happen on
+<pb n="110" facs="tcp:42938:57"/>Board in the time of the Voy<g ref="char:EOLhyphen"/>age; He hath for his pains three ſhares. All the Goods that are taken in the Prize, as well the Chriſtians as the Hull of the Ship, are ſold by an Outcry, and the whole Sum kept intire untill all be ſold; and then after the Pub<g ref="char:EOLhyphen"/>lick part is deducted, the Ar<g ref="char:EOLhyphen"/>madors and Souldiers ſhare the reſt, as before-mentioned.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="111" facs="tcp:42938:57"/>
+                     <head>Galleys.</head>
+                     <p>THe Galleys are ſeldom armed out but in the Summer, and are rather a charge to the Armadors than profit, having ſeldom taken any purchaſe conſiderable: The charge of putting out a Galley is uſually impoſed up<g ref="char:EOLhyphen"/>on ſuch perſons as are known to be very Wealthy, who have a Banyard to keep their Slaves in, whereof there are three, according to the num<g ref="char:EOLhyphen"/>ber of the Galleys, to each of them belonging about
+<pb n="112" facs="tcp:42938:58"/>three hundred Slaves, out of whoſe ranſom the Armadors do draw no ſmall profit, as having bought them com<g ref="char:EOLhyphen"/>monly for an inconſiderable price, and not granting them their liberty again but at a high rate, the pooreſt of them pays one thouſand <hi>Dobles,</hi> or about three hundred <hi>Dollars,</hi> with its Port-charges inclu<g ref="char:EOLhyphen"/>ded.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="113" facs="tcp:42938:58"/>
+                     <head>Territories.</head>
+                     <p>THe Territories of <hi>Algiers</hi> are bounded on the Eaſt with <hi>Tunis:</hi> Two days march of that City is a Town called <hi>Calla At-Sevan,</hi> where is a Gariſon of twenty Soul<g ref="char:EOLhyphen"/>diers ſent from <hi>Algiers.</hi> The yearly Tribute brought from thence is twenty thouſand <hi>Dobles.</hi>
+                     </p>
+                     <p>The next is <hi>Tibuiſa,</hi> a Ga<g ref="char:EOLhyphen"/>riſon of the ſame force, and pays the like Tribute of twen<g ref="char:EOLhyphen"/>ty thouſand <hi>Dobles per an<g ref="char:EOLhyphen"/>num.</hi>
+                     </p>
+                     <pb n="114" facs="tcp:42938:59"/>
+                     <p>The next is <hi>Biſcary,</hi> lies South-Eaſt from <hi>Algiers</hi> fif<g ref="char:EOLhyphen"/>teen days journey; hath a Gariſon of one hundred Soul<g ref="char:EOLhyphen"/>diers, and pays Tribute twelve thouſand <hi>Dobles per annum.</hi> The Souldiers of <hi>Biſcary</hi> at their yearly exchange in their march homeward, receive the yearly Tribute of thirty <hi>Ne<g ref="char:EOLhyphen"/>gros,</hi> from a place called <hi>Wor<g ref="char:EOLhyphen"/>gola.</hi>
+                     </p>
+                     <p>The next is <hi>Constantine,</hi> a famous and ſtrong City, ſo well ſeated and fortified, that one hundred Souldiers who lie in Gariſon there, are able to defend it againſt ten thouſand. It pays Tribute one hundred
+<pb n="115" facs="tcp:42938:59"/>and fifty thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>Next to <hi>Conſtantine</hi> is <hi>Bona,</hi> which hath a Gariſon of one hundred Souldiers, and pays one hundred thouſand <hi>Dobles per annum,</hi> and one hundred Kintals of Butter.</p>
+                     <p>The next is <hi>Meſela,</hi> has twenty Souldiers, and pays Tribute ten thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The next is <hi>Lemora,</hi> has twenty Souldiers, and eight thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The next is <hi>Berenan,</hi> a fa<g ref="char:EOLhyphen"/>mous Caſtle built by the Chri<g ref="char:EOLhyphen"/>ſtians, and ſeated amongſt the Mountains about ſeven days march South-Eaſt: it hath a
+<pb n="116" facs="tcp:42938:60"/>Gariſon of eighty Souldiers, and pays Tribute to the <hi>Dey,</hi> or General of the Army, fifty thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The next is <hi>Giggery,</hi> which hath a Gariſon of twenty Men, pays fifteen thouſand <hi>Dobles per annum,</hi> famous for the great defeat given the <hi>French</hi> there in 1663.</p>
+                     <p>The next is <hi>Buggi,</hi> where Sir <hi>Edward Spragge</hi> burnt their Armada, hath a Gari<g ref="char:EOLhyphen"/>ſon of one hundred Souldiers, and pays twelve thouſand <hi>Dobles.</hi>
+                     </p>
+                     <p>To the Weſtward their Territories extend as far as two days journey from <hi>Fez</hi> and <hi>Morocco.</hi> The principal
+<pb n="117" facs="tcp:42938:60"/>and moſt remoted Town, is <hi>Trimeſan,</hi> an ancient and large City, well inhabited by the <hi>Moors</hi> and <hi>Cololis</hi> that are married and live there: The Gariſon conſiſts of one hun<g ref="char:EOLhyphen"/>dred Souldiers, and pays one hundred thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The next is <hi>Maſtagan,</hi> a fine Town well fortified by the Sea-ſide, hath a Gariſon of one hundred Souldiers, and pays Tribute to the <hi>Dey</hi> one hundred thouſand <hi>Dobles.</hi>
+                     </p>
+                     <p>Beſides theſe, is,
+<list>
+                           <item>
+                              <hi>Sherſhell,</hi>
+                           </item>
+                           <item>
+                              <hi>Dellus,</hi>
+                           </item>
+                           <pb n="118" facs="tcp:42938:61"/>
+                           <item>
+                              <hi>Kollia,</hi>
+                           </item>
+                           <item>
+                              <hi>Bleeda Millyeave,</hi>
+                           </item>
+                           <item>
+                              <hi>Maſſon Medden,</hi>
+                           </item>
+                        </list> and divers other Towns, in<g ref="char:EOLhyphen"/>habited by the <hi>Moors;</hi> and ſe<g ref="char:EOLhyphen"/>veral <hi>Turks</hi> are married and live among them.</p>
+                     <p>For the Collection of the Contribution of all theſe parts, are three Camps year<g ref="char:EOLhyphen"/>ly ſent out, beſides the fore<g ref="char:EOLhyphen"/>mentioned Gariſons which are yearly relieved. To each of theſe Camps is a <hi>Bey,</hi> or Ge<g ref="char:EOLhyphen"/>neral that Farms the Contri<g ref="char:EOLhyphen"/>bution.</p>
+                     <p>The firſt Camp is called the <hi>Churke Mahallas,</hi> Commander
+<pb n="119" facs="tcp:42938:61"/>
+                        <hi>Harradien Bey,</hi> and rangeth all the Eaſt as far as their utmoſt bounds to the Eaſtward. His Army conſiſts of fifty <hi>Tents,</hi> in each <hi>Tent</hi> is forty Souldi<g ref="char:EOLhyphen"/>ers, he pays five hundred thou<g ref="char:EOLhyphen"/>ſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <q>[The <hi>Bey</hi> is uſually a Perſon of Noble Blood, bred among the <hi>Moors,</hi> of which is many ſo eſteem<g ref="char:EOLhyphen"/>ed by them. He hath an <hi>Aga</hi> in the Camp, as the Ships have at Sea; and the Souldiers are as much or more obedient to the <hi>Aga</hi> than the <hi>Bey.]</hi>
+                     </q>
+                     <p>The ſecond is <hi>Mahalla Ti<g ref="char:EOLhyphen"/>tera,</hi> or the Southward Camp, they conſiſt of fifteen <hi>Tents,</hi> and two hundred <hi>Spahees;</hi> they are Commanded by <hi>Dell Bey,</hi>
+                        <pb n="120" facs="tcp:42938:62"/>who gathers Contribution ſixty days journey Southward, from whence he brings many <hi>Ne<g ref="char:EOLhyphen"/>groes</hi> of <hi>Angelo,</hi> and ſome<g ref="char:EOLhyphen"/>times <hi>Gold</hi> having farmed it for one hundred and fifteen thou<g ref="char:EOLhyphen"/>ſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The third is <hi>Carpe Mahal<g ref="char:EOLhyphen"/>las,</hi> or the Weſtern Camp, they conſiſt of ſixty <hi>Tents,</hi> and gather Contribution within two days journey of <hi>Fez,</hi> and all the Weſtward part from <hi>Algiers.</hi> This Camp is com<g ref="char:EOLhyphen"/>manded by <hi>Ben Aſhia Melias,</hi> Brother to the Captain that was taken in the <hi>Algier</hi>-Frigat. He pays the Publick five hun<g ref="char:EOLhyphen"/>dred thouſand <hi>Dobles per an<g ref="char:EOLhyphen"/>num.</hi>
+                     </p>
+                     <pb n="121" facs="tcp:42938:62"/>
+                     <p>Beſides theſe Revenues, this City of <hi>Algiers</hi> receives from the Handicrafts-men eighteen thouſand one hun<g ref="char:EOLhyphen"/>dred and eighty <hi>Dollars per an<g ref="char:EOLhyphen"/>num.</hi>
+                     </p>
+                     <p>The <hi>Jews</hi> pay two thou<g ref="char:EOLhyphen"/>ſand eight hundred and eighty ſix <hi>Dollars per annum.</hi>
+                     </p>
+                     <p>The Farmers of the Wax and Hydes pay eighty five thouſand <hi>Dobles per annum.</hi>
+                     </p>
+                     <p>The <hi>French</hi> pay for the Coral Fiſhing at <hi>Baſtion</hi> twen<g ref="char:EOLhyphen"/>ty five thouſand <hi>Dobles per an<g ref="char:EOLhyphen"/>num.</hi>
+                     </p>
+                     <p>The <hi>Genoveeſes</hi> pay for the Priviledges they enjoy upon Tobacco, ten thouſand <hi>Dol<g ref="char:EOLhyphen"/>lars per annum.</hi>
+                     </p>
+                     <pb n="122" facs="tcp:42938:63"/>
+                     <p>The Cuſtom of Goods may amount to twenty thouſand <hi>Dollars per annum.</hi>
+                     </p>
+                     <p>Moreover, if any <hi>Turk</hi> dies without any Heir lawfully be<g ref="char:EOLhyphen"/>gotten, his whole Eſtate goes to the Publick: If he hath one or more Daughters, the Goods of the <hi>Turk</hi> are given her; but of a <hi>Moor</hi> the Daugh<g ref="char:EOLhyphen"/>ter cannot inherit: This brings in an unknown and vaſt Re<g ref="char:EOLhyphen"/>venue, it having been com<g ref="char:EOLhyphen"/>puted ſome years to amount to four hundred thouſand <hi>Dol<g ref="char:EOLhyphen"/>lars.</hi>
+                     </p>
+                     <p>From the poor Slaves there ariſes no ſmall profit to the Publick: for after the Slaves are ſold at the <hi>Badiſtan,</hi> or <hi>Market<g ref="char:EOLhyphen"/>place,</hi>
+                        <pb n="123" facs="tcp:42938:63"/>they are carried to the Kings Houſe, and entred a<g ref="char:EOLhyphen"/>gain, where every farthing that is offered for them more than was in <hi>Batiſtan,</hi> turns to the benefit of the Publick, be<g ref="char:EOLhyphen"/>ſides every Slave pays to the Publick fifteen <hi>Dollars</hi> for his head, and ten <hi>per cent.</hi> for ſo much as he is redeemed for: Add to this the ⅛ part of all Prizes, and what elſe is ex<g ref="char:EOLhyphen"/>acted by the Revenues laid up<g ref="char:EOLhyphen"/>on all ſorts of people, which all amounts to a vaſt unknown ſum of money.</p>
+                     <p>Every two months they pay their Soldiers;
+<note place="margin">No Perſon is permitted to go in<g ref="char:EOLhyphen"/>to the Treaſury.</note> and what money re<g ref="char:EOLhyphen"/>mains, is ſent up
+<pb n="124" facs="tcp:42938:64"/>to the <hi>Caſſale,</hi> from whence they have never yet taken any thing: ſo that the maſs of Wealth that is believed to be therein, might very well de<g ref="char:EOLhyphen"/>fray the charges of an Army, fit to take both that and the City; when it was blown up by the <hi>Collolies,</hi> that part ſtood where the Treaſure lies, and received little or no prejudice.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="125" facs="tcp:42938:64"/>
+                     <head>Their Trade.</head>
+                     <p>THe Trade of <hi>Algier</hi> is the moſt inconſiderable of any great populous City in the World, depending chiefly upon the ſucceſs of their Py<g ref="char:EOLhyphen"/>rates: among the <hi>Tukrs</hi> I do not find ten Merchants, and they only uſe to <hi>Tunis</hi> and <hi>Alexandria,</hi> from whence they are ſupplied with Linnen Cloth, Coffee, and other Mer<g ref="char:EOLhyphen"/>chandize.</p>
+                     <p>The Handicrafts-men are chiefly <hi>Collolis,</hi> or Sons of <hi>Turks,</hi> who being uncapable of Preferment in the Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="126" facs="tcp:42938:65"/>are brought up to earn their bread, and are well im<g ref="char:EOLhyphen"/>proved in their ſeveral Arts. Every Trade and Profeſſion hath an <hi>Emeene,</hi> or Maſter of the Company, whoſe care is in effect the ſame as the Ma<g ref="char:EOLhyphen"/>ſters and Wardens of a Com<g ref="char:EOLhyphen"/>pany in <hi>London;</hi> but more ab<g ref="char:EOLhyphen"/>ſolute, it being in his power, and alſo incumbent upon him, to chaſtiſe any of them with blows, when they ſhall de<g ref="char:EOLhyphen"/>ſerve it, or lay what for<g ref="char:EOLhyphen"/>feit he ſees cauſe upon any miſdemeanor; to force them to pay their debts, if for any Commodity belonging to their Trade, and to demean themſelves civilly. Each Trade
+<pb n="127" facs="tcp:42938:65"/>lives in a Street by it ſelf. The Power given the <hi>Emeene</hi> is no ſmall eaſe to the Governours. They have a Fabrick of Cloth, and Linnen, and almoſt all things neceſſary for Mankind; ſo that the Manufactories they ſtand in need of from <hi>Chri<g ref="char:EOLhyphen"/>ſtendom,</hi> is ſo often ſupplied by Prizes, that the Conſumpti<g ref="char:EOLhyphen"/>on of the place ſupplyed by Merchants, is moſt inconſide<g ref="char:EOLhyphen"/>rable.</p>
+                     <p>Of <hi>Engliſh,</hi> the Goods brought hither is chiefly Cloth, of which four hun<g ref="char:EOLhyphen"/>dred pieces <hi>per annum</hi> is the greateſt Conſumption, ſome Iron, Lead, and Tin, but in all not enough to employ one
+<pb n="128" facs="tcp:42938:66"/>good Ship to make two Voy<g ref="char:EOLhyphen"/>ages a year.</p>
+                     <p>The current money of that Country is <hi>Aſpers,</hi> of which 232. make a <hi>Ryall</hi> of 8 8, a Coyn that is altogether unfit for any other Country, being not full three quarters of an Ounce of Silver in a <hi>Dollar</hi> of <hi>Ryall</hi> 8 8. They Coyn alſo a Subſtance of Gold, which is the juſt weight of an <hi>Hunga<g ref="char:EOLhyphen"/>rian,</hi> and is worth two <hi>Ryalls</hi> 8 8, and three quarters in <hi>Aſ<g ref="char:EOLhyphen"/>pers,</hi> ſo that a Merchant that brings his Wares hither by ſelling them for the money of the Country, finds loſs of twenty <hi>per cent.</hi> to the pound in the exchange of <hi>Spaniſh</hi> mo<g ref="char:EOLhyphen"/>ney,
+<pb n="129" facs="tcp:42938:66"/>that it hath much diſcou<g ref="char:EOLhyphen"/>raged all Trade hither.</p>
+                     <p>The greateſt production of Merchandize to be tranſport<g ref="char:EOLhyphen"/>ed of the growth of the Coun<g ref="char:EOLhyphen"/>try, is Wax, about three hun<g ref="char:EOLhyphen"/>dred <hi>Kintals per annum,</hi> Hydes about twenty thouſand, and nothing elſe worth noting; but of Prize-Goods no ſmall quantity, having been, as I have particularly noted, one hundred eighty and ſeven Prizes brought in, in leſs than two years and an half.</p>
+                     <p>All Goods that are not <hi>contrabanda</hi> to be brought from <hi>Spain</hi> and <hi>Italy,</hi> pay 11 1 2 <hi>per</hi> Cuſtom, a Ship pays fifty <hi>Dollars</hi> Port-charges, and a
+<pb n="130" facs="tcp:42938:67"/>Barrel of Powder to the <hi>Caſ<g ref="char:EOLhyphen"/>ſabe.</hi>
+                     </p>
+                     <p>The Weights and Meaſures are no ways altered ſince the time that ſeveral have under<g ref="char:EOLhyphen"/>taken to give an accompt thereof.</p>
+                  </div>
+                  <div type="table">
+                     <pb n="131" facs="tcp:42938:67"/>
+                     <head>
+                        <hi>A LIST of the Ships in</hi> Algiers.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell role="label">
+                                 <hi>Ships Names.</hi>
+                              </cell>
+                              <cell role="label">Captains.</cell>
+                              <cell role="label">
+                                 <hi>Men.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>Guns.</hi>
+                              </cell>
+                              <cell role="label">
+                                 <hi>What in their Stern.</hi>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <seg rend="decorInit">M</seg>arygold</cell>
+                              <cell>
+                                 <hi>Aly Rais Canary</hi>
+                              </cell>
+                              <cell>350</cell>
+                              <cell>40</cell>
+                              <cell>Marygold</cell>
+                           </row>
+                           <row>
+                              <cell>The Lyon</cell>
+                              <cell> </cell>
+                              <cell>350</cell>
+                              <cell>40</cell>
+                              <cell>Lyon Red</cell>
+                           </row>
+                           <row>
+                              <cell>The Citron Tree</cell>
+                              <cell>
+                                 <hi>Hamet Lagere</hi>
+                              </cell>
+                              <cell>350</cell>
+                              <cell>40</cell>
+                              <cell>Citron Tree</cell>
+                           </row>
+                           <row>
+                              <cell>The Orange Tree</cell>
+                              <cell>
+                                 <hi>Sampſon Rais</hi>
+                              </cell>
+                              <cell>350</cell>
+                              <cell>40</cell>
+                              <cell>Orange Tree</cell>
+                           </row>
+                           <row>
+                              <cell>The Moon</cell>
+                              <cell>
+                                 <hi>Regip Raiſe</hi>
+                              </cell>
+                              <cell>350</cell>
+                              <cell>40</cell>
+                              <cell>Half Moon in a Ring</cell>
+                           </row>
+                           <pb n="132" facs="tcp:42938:68"/>
+                           <row>
+                              <cell>The Sampſon</cell>
+                              <cell>
+                                 <hi>Aſaph Race</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>40</cell>
+                              <cell>Sampſon</cell>
+                           </row>
+                           <row>
+                              <cell>The Seven Stars</cell>
+                              <cell>
+                                 <hi>Buffon Race</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>36</cell>
+                              <cell>Seven Stars</cell>
+                           </row>
+                           <row>
+                              <cell>The Fountain</cell>
+                              <cell>
+                                 <hi>Baker Oggia</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>36</cell>
+                              <cell>Fountain</cell>
+                           </row>
+                           <row>
+                              <cell>The Lemon Tree</cell>
+                              <cell>
+                                 <hi>Ally Raiſe</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>36</cell>
+                              <cell>Lemon Tree</cell>
+                           </row>
+                           <row>
+                              <cell>The two Lyons</cell>
+                              <cell>
+                                 <hi>Biram Raiſe</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>36</cell>
+                              <cell>Two Lyons</cell>
+                           </row>
+                           <row>
+                              <cell>Muskitto</cell>
+                              <cell>
+                                 <hi>Aſſaine Raiſe</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>34</cell>
+                              <cell>Stambol Church, and 2 Calabaſhes.</cell>
+                           </row>
+                           <row>
+                              <cell>Pine Tree</cell>
+                              <cell>
+                                 <hi>Mahomet Torſett</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>30</cell>
+                              <cell>Pine Tree</cell>
+                           </row>
+                           <row>
+                              <cell>The Sun</cell>
+                              <cell>
+                                 <hi>Cornet</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>28</cell>
+                              <cell>The Sun Blew</cell>
+                           </row>
+                           <pb n="133" facs="tcp:42938:68"/>
+                           <row>
+                              <cell>Yellow Roſe</cell>
+                              <cell>
+                                 <hi>Topall Oggia</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>26</cell>
+                              <cell>Yellow Roſe</cell>
+                           </row>
+                           <row>
+                              <cell>The Sun</cell>
+                              <cell>
+                                 <hi>Fortaſs</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>24</cell>
+                              <cell>The Golden Sun</cell>
+                           </row>
+                           <row>
+                              <cell>Three Roſes</cell>
+                              <cell>
+                                 <hi>Mustap. Chelett</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>24</cell>
+                              <cell>Three Roſes</cell>
+                           </row>
+                           <row>
+                              <cell>The half Moon</cell>
+                              <cell>
+                                 <hi>Biskaine</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>24</cell>
+                              <cell>The half Moon</cell>
+                           </row>
+                           <row>
+                              <cell>The Flower Pot</cell>
+                              <cell>
+                                 <hi>Muſtapha Raiſe Canary</hi>
+                              </cell>
+                              <cell>300</cell>
+                              <cell>34</cell>
+                              <cell>A Golden Flow<g ref="char:EOLhyphen"/>er Pot</cell>
+                           </row>
+                           <row>
+                              <cell>The Green Roſe</cell>
+                              <cell>
+                                 <hi>Corally Raiſe</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>20</cell>
+                              <cell>Green Roſe</cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>Muſtap. Reis Genores</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>30</cell>
+                              <cell>A new Ship</cell>
+                           </row>
+                           <row>
+                              <cell>The Star</cell>
+                              <cell>
+                                 <hi>Muſtap. Reis Greek</hi>
+                              </cell>
+                              <cell>250</cell>
+                              <cell>30</cell>
+                              <cell>The Star</cell>
+                           </row>
+                           <pb n="134" facs="tcp:42938:69"/>
+                           <row>
+                              <cell>Sun and Pearl</cell>
+                              <cell>
+                                 <hi>Haſſan Raiſe</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>24</cell>
+                              <cell>Sun and Pearl</cell>
+                           </row>
+                           <row>
+                              <cell>A Carvel</cell>
+                              <cell>
+                                 <hi>Over Raiſe</hi>
+                              </cell>
+                              <cell>150</cell>
+                              <cell>16</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>The Pearl</cell>
+                              <cell>
+                                 <hi>Aſhatt</hi>
+                              </cell>
+                              <cell>150</cell>
+                              <cell>16</cell>
+                              <cell>Pearl</cell>
+                           </row>
+                           <row>
+                              <cell>The two Stags</cell>
+                              <cell>
+                                 <hi>Mah. Rais Malles</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>20</cell>
+                              <cell>Two Stags</cell>
+                           </row>
+                           <row>
+                              <cell>The great Pearl</cell>
+                              <cell>
+                                 <hi>Abducadre Rais</hi>
+                              </cell>
+                              <cell>200</cell>
+                              <cell>24</cell>
+                              <cell>Great Pearl</cell>
+                           </row>
+                           <row>
+                              <cell>The little Lyon</cell>
+                              <cell>
+                                 <hi>Muſtaph. Raiſe</hi>
+                              </cell>
+                              <cell>150</cell>
+                              <cell>16</cell>
+                              <cell>Lyon</cell>
+                           </row>
+                           <row>
+                              <cell>Roſe and Pidgeon</cell>
+                              <cell>
+                                 <hi>Boſtanges</hi>
+                              </cell>
+                              <cell>150</cell>
+                              <cell>18</cell>
+                              <cell>The White Roſe and Pidgeon.</cell>
+                           </row>
+                           <row>
+                              <cell>Pearl and 3 Roſes</cell>
+                              <cell>
+                                 <hi>Taggarin</hi>
+                              </cell>
+                              <cell>80</cell>
+                              <cell>8</cell>
+                              <cell>Pearl and 3 Roſes</cell>
+                           </row>
+                           <pb n="135" facs="tcp:42938:69"/>
+                           <row>
+                              <cell>Settia</cell>
+                              <cell>
+                                 <hi>
+                                    <g ref="char:V">Ʋ</g>ſuph Raiſe</hi>
+                              </cell>
+                              <cell>80</cell>
+                              <cell>8</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Settia</cell>
+                              <cell>
+                                 <hi>Regip Raiſe</hi>
+                              </cell>
+                              <cell>80</cell>
+                              <cell>8</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>Mahamel Raiſe,</hi> the <hi>Deys</hi> Son</cell>
+                              <cell>400</cell>
+                              <cell>50</cell>
+                              <cell>2 new Ships.</cell>
+                           </row>
+                           <row>
+                              <cell> </cell>
+                              <cell>
+                                 <hi>Baſhaw Ship</hi>
+                              </cell>
+                              <cell>400</cell>
+                              <cell>50</cell>
+                              <cell>2 new Ships.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>Seven Brigantines, and three Galleys.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
